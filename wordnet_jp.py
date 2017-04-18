@@ -5,14 +5,46 @@ from collections import namedtuple
 from pprint import pprint
 import pandas as pd
 from nltk.corpus import wordnet as wn
+from nltk.corpus import genesis
 
-from nltk.corpus import wordnet as wn
+genesis_ic = wn.ic(genesis, False, 0.0)
 
 def simple_similarity(a, b):
     if wn.path_similarity(wn.synsets(a)[0], wn.synsets(b)[0]) == None:
     	return 0
     else:
     	return wn.path_similarity(wn.synsets(a)[0], wn.synsets(b)[0])
+
+def leacock_similarity(a,b):
+	if wn.lch_similarity(wn.synsets(a)[0],wn.synsets(b)[0]) == None:
+		return 0
+	else:
+		return wn.lch_similarity(wn.synsets(a)[0], wn.synsets(b)[0])
+
+def wu_palmer_similarity(a,b):
+	if wn.wup_similarity(wn.synsets(a)[0],wn.synsets(b)[0]) == None:
+		return 0
+	else:
+		return wn.wup_similarity(wn.synsets(a)[0],wn.synsets(b)[0])
+
+def resnik_similarity(a,b):
+	if wn.res_similarity(wn.synsets(a)[0],wn.synsets(b)[0],genesis_ic) == None:
+		return 0
+	else:
+		return wn.res_similarity(wn.synsets(a)[0],wn.synsets(b)[0],genesis_ic)
+
+def jiang_conrath_similarity(a,b):
+	if wn.jcn_similarity(wn.synsets(a)[0],wn.synsets(b)[0],genesis_ic) == None:
+		return 0
+	else:
+		return wn.jcn_similarity(wn.synsets(a)[0],wn.synsets(b,genesis_ic)[0])
+
+def l_similarity(a,b):
+	if wn.lin_similarity(wn.synsets(a)[0],wn.synsets(b)[0],genesis_ic) == None:
+		return 0
+	else:
+		return wn.lin_similarity(wn.synsets(a)[0],wn.synsets(b)[0],genesis_ic)
+
 
 conn = sqlite3.connect("./wnjpn.db")
 conn.text_factory = str
