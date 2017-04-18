@@ -1,0 +1,2209 @@
+id,name
+101000000003,/Arts & Entertainment
+101000000005,/Computers & Electronics
+101000000007,/Finance
+101000000008,/Games
+101000000011,/Home & Garden
+101000000012,/Business & Industrial
+101000000013,/Internet & Telecom
+101000000014,/People & Society
+101000000016,/News
+101000000018,/Shopping
+101000000019,/Law & Government
+101000000020,/Sports
+101000000022,/Books & Literature
+101000000023,/Arts & Entertainment/Performing Arts
+101000000024,/Arts & Entertainment/Visual Art & Design
+101000000025,/Business & Industrial/Advertising & Marketing
+101000000028,/Business & Industrial/Business Services/Office Services
+101000000029,/Real Estate
+101000000030,/Computers & Electronics/Computer Hardware
+101000000031,/Computers & Electronics/Programming
+101000000032,/Computers & Electronics/Software
+101000000033,/Arts & Entertainment/Offbeat
+101000000034,/Arts & Entertainment/Movies
+101000000035,/Arts & Entertainment/Music & Audio
+101000000036,/Arts & Entertainment/TV & Video
+101000000037,/Finance/Banking
+101000000038,/Finance/Insurance
+101000000039,/Games/Card Games
+101000000041,/Games/Computer & Video Games
+101000000042,/Arts & Entertainment/Music & Audio/Jazz & Blues/Jazz
+101000000043,/Online Communities/Online Goodies
+101000000044,/Beauty & Fitness
+101000000045,/Health
+101000000046,/Business & Industrial/Agriculture & Forestry
+101000000047,/Autos & Vehicles
+101000000048,/Business & Industrial/Construction & Maintenance
+101000000049,/Business & Industrial/Manufacturing
+101000000050,/Business & Industrial/Transportation & Logistics
+101000000053,/Internet & Telecom/Web Services/Web Hosting & Domain Registration
+101000000054,/People & Society/Social Issues & Advocacy
+101000000055,/Online Communities/Dating & Personals
+101000000056,/People & Society/Ethnic & Identity Groups
+101000000057,/People & Society/Social Issues & Advocacy/Charity & Philanthropy
+101000000058,/People & Society/Family & Relationships/Family/Parenting
+101000000059,/People & Society/Religion & Belief
+101000000060,/Jobs & Education/Jobs
+101000000061,/Shopping/Classifieds
+101000000063,/News/Weather
+101000000064,/Shopping/Antiques & Collectibles
+101000000065,/Hobbies & Leisure
+101000000066,/Pets & Animals
+101000000067,/Travel
+101000000068,/Shopping/Apparel
+101000000069,/Shopping/Consumer Resources
+101000000070,/Shopping/Gifts & Special Event Items
+101000000071,/Food & Drink
+101000000073,/Shopping/Mass Merchants & Department Stores
+101000000074,/Jobs & Education/Education
+101000000075,/Law & Government/Legal
+101000000076,/Law & Government/Government
+101000000077,/Computers & Electronics/Enterprise Technology
+101000000078,/Computers & Electronics/Consumer Electronics
+101000000082,/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues
+101000000083,/Business & Industrial/Advertising & Marketing/Marketing
+101000000084,/Internet & Telecom/Web Services/Search Engine Optimization & Marketing
+101000000089,/Autos & Vehicles/Vehicle Parts & Accessories
+101000000091,/Computers & Electronics/Consumer Electronics/Audio Equipment/Stereo Systems & Components
+101000000093,/Beauty & Fitness/Face & Body Care/Skin & Nail Care
+101000000094,/Beauty & Fitness/Fitness
+101000000095,/Business & Industrial/Business Services/Office Supplies
+101000000096,/Real Estate/Real Estate Agencies
+101000000097,/Shopping/Consumer Resources/Consumer Advocacy & Protection
+101000000098,/Beauty & Fitness/Fashion & Style/Fashion Designers & Collections
+101000000099,/Shopping/Gifts & Special Event Items/Gifts
+101000000100,/Shopping/Gifts & Special Event Items/Cards & Greetings
+101000000101,/People & Society/Religion & Belief/Spirituality
+101000000102,/Online Communities/Dating & Personals/Personals
+101000000104,/Internet & Telecom/Service Providers/ISPs
+101000000105,/Games/Online Games
+101000000107,/Finance/Investing
+101000000108,/Reference/Language Resources
+101000000112,/News/Broadcast & Network News
+101000000113,/People & Society/Ethnic & Identity Groups/Gay-Lesbian-Bisexual-Transgender
+101000000115,/People & Society/Family & Relationships/Family/Parenting/Babies & Toddlers/Baby Care & Hygiene
+101000000118,/Sports/Water Sports
+101000000119,/Pets & Animals/Wildlife
+101000000120,/Home & Garden/Kitchen & Dining/Cookware & Diningware
+101000000121,/Food & Drink/Food & Grocery Retailers
+101000000122,/Food & Drink/Cooking & Recipes
+101000000124,/Shopping/Apparel/Clothing Accessories
+101000000137,/Home & Garden/Homemaking & Interior Decor
+101000000138,/Autos & Vehicles/Vehicle Maintenance
+101000000143,/Beauty & Fitness/Face & Body Care
+101000000144,/Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal
+101000000145,/Beauty & Fitness/Spas & Beauty Services
+101000000146,/Beauty & Fitness/Hair Care
+101000000147,/Beauty & Fitness/Cosmetology & Beauty Professionals
+101000000148,/Autos & Vehicles/Off-Road Vehicles
+101000000157,/Business & Industrial/Business Operations/Human Resources
+101000000158,/Home & Garden/Home Improvement
+101000000166,/Law & Government/Public Safety
+101000000168,/Law & Government/Public Safety/Emergency Services
+101000000170,/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration
+101000000171,/People & Society/Ethnic & Identity Groups/Indigenous Peoples/Native Americans
+101000000174,/Science
+101000000179,/Travel/Hotels & Accommodations
+101000000180,/Sports/Motor Sports
+101000000182,/Arts & Entertainment/Humor
+101000000184,/Arts & Entertainment/Celebrities & Entertainment News
+101000000185,/Beauty & Fitness/Fashion & Style
+101000000188,"/Arts & Entertainment/Events & Listings/Bars, Clubs & Nightlife"
+101000000189,/Hobbies & Leisure/Clubs & Organizations
+101000000191,/Online Communities/Forum & Chat Providers
+101000000195,/Health/Reproductive Health
+101000000198,/Health/Reproductive Health/Birth Control
+101000000202,/Health/Reproductive Health/Erectile Dysfunction
+101000000203,/Travel/Air Travel
+101000000205,/Travel/Car Rental & Taxi Services
+101000000206,/Travel/Cruises & Charters
+101000000208,/Travel/Tourist Destinations
+101000000210,/Arts & Entertainment/Movies/DVD & Video Shopping
+101000000211,/Arts & Entertainment/TV & Video/Online Video
+101000000213,/Arts & Entertainment/Movies/Movie Memorabilia
+101000000215,/Arts & Entertainment/Music & Audio/Radio
+101000000216,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Musical Instruments
+101000000217,/Arts & Entertainment/Music & Audio/CD & Audio Shopping
+101000000218,/Arts & Entertainment/Music & Audio/Music Art & Memorabilia
+101000000220,/Arts & Entertainment/Music & Audio/Music Streams & Downloads
+101000000224,/Computers & Electronics/Software/Software Utilities
+101000000225,/Computers & Electronics/Software/Device Drivers
+101000000226,/Computers & Electronics/Computer Hardware/Computer Components/Computer Memory
+101000000227,/Computers & Electronics/Consumer Electronics/Gadgets & Portable Electronics/MP3 & Portable Media Players
+101000000228,/Computers & Electronics/Consumer Electronics/Gadgets & Portable Electronics/PDAs & Handhelds
+101000000229,/Computers & Electronics/Consumer Electronics/TV & Video Equipment
+101000000230,/Computers & Electronics/Consumer Electronics/Car Electronics/Car Audio
+101000000231,/Science/Engineering & Technology
+101000000233,/Business & Industrial/Energy & Utilities
+101000000234,/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics
+101000000235,/Beauty & Fitness/Hair Care/Hair Loss
+101000000236,/Beauty & Fitness/Weight Loss
+101000000237,/Health/Nutrition/Vitamins & Supplements
+101000000238,/Beauty & Fitness/Cosmetic Procedures/Cosmetic Surgery
+101000000239,/Beauty & Fitness/Body Art
+101000000241,/Beauty & Fitness/Fitness/Bodybuilding
+101000000242,/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances
+101000000244,/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries
+101000000245,/Health/Oral & Dental Care
+101000000246,/Health/Vision Care
+101000000248,/Health/Pharmacy
+101000000249,/Finance/Insurance/Health Insurance
+101000000250,/Health/Medical Facilities & Services/Hospitals & Treatment Centers
+101000000251,/Health/Medical Devices & Equipment
+101000000252,/Health/Health Foundations & Medical Research
+101000000253,/Health/Medical Literature & Resources
+101000000254,/Health/Health Education & Medical Training
+101000000255,/Business & Industrial/Pharmaceuticals & Biotech
+101000000256,/Health/Medical Facilities & Services
+101000000257,/Health/Substance Abuse
+101000000258,/Sports/Team Sports/American Football
+101000000259,/Sports/Team Sports/Baseball
+101000000260,/Sports/Team Sports/Hockey
+101000000261,/Sports/Individual Sports/Golf
+101000000262,/Sports/Individual Sports/Racquet Sports
+101000000263,/Sports/Sporting Goods
+101000000264,/Sports/Team Sports/Basketball
+101000000265,/Sports/Winter Sports
+101000000268,/Reference/Geographic Reference/Maps
+101000000269,/Home & Garden/Gardening & Landscaping
+101000000270,/Home & Garden/Home Furnishings
+101000000271,/Home & Garden/Home Appliances
+101000000272,/Home & Garden/Home Furnishings/Lamps & Lighting
+101000000273,/Autos & Vehicles/Motorcycles
+101000000275,/Online Communities/Photo & Video Sharing
+101000000276,/Food & Drink/Restaurants
+101000000278,/Finance/Accounting & Auditing
+101000000279,/Finance/Credit & Lending
+101000000280,/Business & Industrial/Business Services/E-Commerce Services/Merchant Services & Payment Systems
+101000000284,/Hobbies & Leisure/Crafts
+101000000287,/Business & Industrial/Industrial Materials & Equipment
+101000000288,/Business & Industrial/Chemicals Industry
+101000000289,/Business & Industrial/Transportation & Logistics/Freight & Trucking
+101000000290,/Business & Industrial/Transportation & Logistics/Packaging
+101000000291,/Business & Industrial/Transportation & Logistics/Moving & Relocation
+101000000292,/Shopping/Auctions
+101000000293,/Hobbies & Leisure/Special Occasions/Weddings
+101000000294,/Sports/Team Sports/Soccer
+101000000296,/Sports/Team Sports/Cricket
+101000000297,/Food & Drink/Cooking & Recipes/Culinary Training
+101000000298,/People & Society/Seniors & Retirement
+101000000299,/Online Communities
+101000000301,/Internet & Telecom/Web Portals
+101000000302,/Internet & Telecom/Web Services
+101000000303,/Computers & Electronics/Software/Operating Systems
+101000000304,/Computers & Electronics/Software/Internet Software/Internet Clients & Browsers
+101000000305,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Televisions
+101000000306,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment/Cameras & Camcorders
+101000000307,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment/Cameras & Camcorders/Cameras
+101000000308,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment/Cameras & Camcorders/Camcorders
+101000000309,/Computers & Electronics/Computer Hardware/Desktop Computers
+101000000310,/Computers & Electronics/Computer Hardware/Laptops & Notebooks
+101000000311,/Computers & Electronics/Networking
+101000000312,/Computers & Electronics/Computer Hardware/Computer Peripherals
+101000000313,/Computers & Electronics/Software/Open Source
+101000000314,/Computers & Electronics/Computer Security
+101000000315,/Computers & Electronics/Computer Security/Antivirus & Malware
+101000000316,/Arts & Entertainment/Comics & Animation
+101000000317,/Arts & Entertainment/Comics & Animation/Anime & Manga
+101000000318,/Arts & Entertainment/Comics & Animation/Comics
+101000000319,/Arts & Entertainment/Comics & Animation/Cartoons
+101000000320,/Online Communities/Dating & Personals/Photo Rating Sites
+101000000321,/Online Communities/File Sharing & Hosting
+101000000323,/Shopping/Gifts & Special Event Items/Flowers
+101000000324,/Shopping/Gifts & Special Event Items/Party & Holiday Supplies
+101000000325,/People & Society/Women's Interests
+101000000326,/Internet & Telecom/Web Services/Affiliate Programs
+101000000327,/Business & Industrial/Advertising & Marketing/Public Relations
+101000000328,/Business & Industrial/Advertising & Marketing/Telemarketing
+101000000329,/Business & Industrial/Business Services
+101000000330,/Business & Industrial/Business Operations/Human Resources/Recruitment & Staffing
+101000000331,/Business & Industrial/Business Operations/Human Resources/Corporate Training
+101000000332,/Business & Industrial/Printing & Publishing/Document & Printing Services
+101000000333,/Business & Industrial/Business Services/Office Supplies/Office Furniture
+101000000334,/Business & Industrial/Business Services/Corporate Events
+101000000335,/Business & Industrial/Business Services/Corporate Events/Trade Fairs & Industry Shows
+101000000336,/Business & Industrial/Business Operations/Business Plans & Presentations
+101000000337,/Business & Industrial/Business Services/Office Services/Office & Facilities Management
+101000000338,/Business & Industrial/Business Operations/Management
+101000000340,/Business & Industrial/Business Services/E-Commerce Services
+101000000341,/Computers & Electronics/Enterprise Technology/Customer Relationship Management (CRM)
+101000000342,/Computers & Electronics/Enterprise Technology/Enterprise Resource Planning (ERP)
+101000000343,/Computers & Electronics/Enterprise Technology/Data Management
+101000000344,/Computers & Electronics/Computer Security/Network Security
+101000000346,/Computers & Electronics/Networking/Networking Equipment
+101000000347,/Computers & Electronics/Networking/Network Monitoring & Management
+101000000350,/Shopping/Apparel/Clothing Accessories/Gems & Jewelry
+101000000352,/Shopping/Consumer Resources/Product Reviews & Price Comparisons/Price Comparisons
+101000000353,/Shopping/Consumer Resources/Product Reviews & Price Comparisons
+101000000354,/Business & Industrial/Transportation & Logistics/Import & Export
+101000000355,/Books & Literature/Book Retailers
+101000000356,/Business & Industrial/Aerospace & Defense
+101000000357,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Dramas/TV Soap Operas
+101000000358,/Arts & Entertainment/TV & Video/TV Shows & Programs
+101000000359,/Arts & Entertainment/TV & Video/TV Networks & Stations
+101000000360,/Arts & Entertainment/Movies/Bollywood & South Asian Film
+101000000361,/Computers & Electronics/Consumer Electronics/Audio Equipment
+101000000362,/Computers & Electronics/Consumer Electronics/Gadgets & Portable Electronics
+101000000365,/Shopping/Consumer Resources/Coupons & Discount Offers
+101000000366,/Law & Government/Military
+101000000367,/Jobs & Education/Education/Distance Learning
+101000000369,/Jobs & Education/Education/Vocational & Continuing Education
+101000000371,/Jobs & Education/Education/Primary & Secondary Schooling (K-12)
+101000000372,/Jobs & Education/Education/Colleges & Universities
+101000000373,/Jobs & Education/Education/Standardized & Admissions Tests
+101000000374,/Reference/General Reference/Educational Resources
+101000000375,/Reference/Libraries & Museums
+101000000377,/Reference/Directories & Listings/Business & Personal Listings
+101000000378,/Real Estate/Apartments & Residential Rentals
+101000000379,/Pets & Animals/Animal Products & Services/Pet Food & Supplies
+101000000380,/Pets & Animals/Animal Products & Services/Veterinarians
+101000000381,/Games/Computer & Video Games/Gaming Media & Reference/Game Cheats & Hints
+101000000382,/Internet & Telecom/Mobile & Wireless
+101000000383,/Internet & Telecom/Service Providers
+101000000384,/Internet & Telecom/Service Providers/Phone Service Providers
+101000000385,/Internet & Telecom/Communications Equipment
+101000000386,/Internet & Telecom/Email & Messaging/Voice & Video Chat
+101000000389,/Internet & Telecom/Service Providers/Phone Service Providers/Calling Cards
+101000000390,/Internet & Telecom/Mobile & Wireless/Mobile Phones
+101000000392,/Internet & Telecom/Teleconferencing
+101000000394,/Internet & Telecom/Email & Messaging
+101000000396,/News/Politics
+101000000398,/News/Politics/Campaigns & Elections
+101000000400,/People & Society/Family & Relationships/Family/Ancestry & Genealogy
+101000000401,/People & Society/Family & Relationships/Family/Parenting/Pregnancy & Maternity
+101000000402,/People & Society/Family & Relationships/Family/Parenting/Youth Camps
+101000000403,/People & Society/Family & Relationships/Family/Parenting/Child Care
+101000000408,/News/Newspapers
+101000000409,/News/Politics/Right-Wing Politics
+101000000410,/News/Politics/Left-Wing Politics
+101000000412,/Books & Literature/Magazines
+101000000418,/Health/Nursing
+101000000419,/Health/Health Conditions
+101000000420,/Health/Health Conditions/Skin Conditions
+101000000421,/Health/Reproductive Health/Sexually Transmitted Diseases
+101000000422,/Internet & Telecom/Web Services/Web Design & Development
+101000000423,/Law & Government/Legal/Bankruptcy
+101000000424,/Law & Government/Legal/Criminal Law
+101000000425,/Real Estate/Property Management
+101000000426,/Law & Government/Legal/Intellectual Property
+101000000427,/Law & Government/Legal/Accident & Personal Injury Law
+101000000428,/Shopping/Apparel/Casual Apparel/T-Shirts
+101000000429,/Health/Health Conditions/Cancer
+101000000432,/Shopping/Toys
+101000000433,/Reference/Humanities/History
+101000000434,/Computers & Electronics/Electronics & Electrical
+101000000435,/Science/Astronomy
+101000000436,/Science/Mathematics
+101000000437,/Health/Mental Health
+101000000438,/Autos & Vehicles/Vehicle Parts & Accessories/Vehicle Wheels & Tires
+101000000439,/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts
+101000000440,/Science/Biological Sciences
+101000000441,/Science/Earth Sciences/Water & Marine Sciences
+101000000442,/Science/Ecology & Environment
+101000000443,/Science/Earth Sciences/Geology
+101000000444,/Science/Physics
+101000000445,/Science/Scientific Equipment
+101000000446,/Science/Scientific Institutions
+101000000447,/Arts & Entertainment/Fun & Trivia/Flash-Based Entertainment
+101000000448,/People & Society/Religion & Belief/Astrology & Divination
+101000000449,/Arts & Entertainment/Offbeat/Occult & Paranormal
+101000000450,/Shopping/Consumer Resources/Customer Services
+101000000451,/Shopping/Consumer Resources/Customer Services/Warranties & Service Contracts
+101000000456,/Health/Nutrition
+101000000457,/Health/Nutrition/Special & Restricted Diets
+101000000458,/Sports/Individual Sports/Cycling
+101000000459,/Hobbies & Leisure/Water Activities/Boating
+101000000461,/Hobbies & Leisure/Outdoors/Hunting & Shooting
+101000000462,/Hobbies & Leisure/Outdoors/Fishing
+101000000463,/Real Estate/Property Inspections & Appraisals
+101000000465,/Finance/Insurance/Home Insurance
+101000000466,/Finance/Credit & Lending/Loans/Home Financing
+101000000467,/Finance/Insurance/Vehicle Insurance/Auto Insurance
+101000000468,/Finance/Credit & Lending/Loans/Vehicle Financing/Auto Financing
+101000000471,/Home & Garden/Pest Control
+101000000472,/Home & Garden/Domestic Services
+101000000473,/Autos & Vehicles/Vehicle Shopping
+101000000474,/Reference/Humanities
+101000000477,/Arts & Entertainment/Visual Art & Design/Architecture
+101000000485,/Internet & Telecom/Search Engines
+101000000486,/Computers & Electronics/Software/Multimedia Software/Graphics & Animation Software
+101000000487,/Computers & Electronics/Computer Hardware/Computer Peripherals/Computer Monitors & Displays
+101000000488,/Computers & Electronics/Networking/Data Formats & Protocols
+101000000492,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Video Players & Recorders
+101000000493,/Computers & Electronics/Computer Hardware/Computer Peripherals/Input Devices
+101000000494,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax/Printers"
+101000000495,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax/Scanners"
+101000000496,/Computers & Electronics/Computer Hardware/Computer Drives & Storage
+101000000497,/Computers & Electronics/Software/Multimedia Software
+101000000498,/Computers & Electronics/Software/Business & Productivity Software
+101000000499,/Health/Alternative & Natural Medicine
+101000000500,/Health/Medical Facilities & Services/Physical Therapy
+101000000501,/Internet & Telecom/Service Providers/Cable & Satellite Providers
+101000000502,/People & Society/Subcultures & Niche Interests
+101000000503,/People & Society/Subcultures & Niche Interests/Goth Subculture
+101000000504,/Online Communities/Blogging Resources & Services
+101000000505,/Science/Chemistry
+101000000507,/News/Gossip & Tabloid News
+101000000508,/Law & Government/Social Services
+101000000509,/People & Society/Social Sciences
+101000000510,/People & Society/Social Sciences/Demographics
+101000000511,/Law & Government/Social Services/Counseling Services
+101000000512,/Sports/Combat Sports/Wrestling
+101000000513,/Sports/World Sports Competitions/Olympics
+101000000514,/Sports/Combat Sports
+101000000515,/Sports/Combat Sports/Boxing
+101000000516,/Sports/Combat Sports/Martial Arts
+101000000517,/Sports/Team Sports/Rugby
+101000000518,/Sports/Individual Sports/Track & Field
+101000000519,/Sports/Individual Sports/Gymnastics
+101000000520,/People & Society/Social Sciences/Economics
+101000000521,/People & Society/Social Sciences/International Relations
+101000000522,/Law & Government/Legal/Family Law
+101000000525,/People & Society/Men's Interests/Men's Interests (Mature)
+101000000527,/Reference/Directories & Listings
+101000000528,/People & Society/Ethnic & Identity Groups/Asians & Diaspora/South Asians & Diaspora
+101000000529,/Online Communities/Social Networks
+101000000530,/Shopping/Apparel/Undergarments
+101000000531,/Shopping/Shopping Portals & Search Engines
+101000000532,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons/Ringtones & Mobile Themes
+101000000533,/Reference
+101000000534,/Sports/Team Sports/Cheerleading
+101000000535,/Law & Government/Public Safety/Law Enforcement
+101000000536,/Health/Reproductive Health/Sex Education & Counseling
+101000000538,/Arts & Entertainment/Offbeat/Edgy & Bizarre
+101000000539,/Arts & Entertainment/Fun & Trivia
+101000000540,/Books & Literature/Fan Fiction
+101000000541,/Sports/Individual Sports/Running & Walking
+101000000542,/Hobbies & Leisure/Outdoors/Hiking & Camping
+101000000543,/People & Society/Social Sciences/Psychology
+101000000546,/Online Communities/Dating & Personals/Matrimonial Services
+101000000547,/People & Society/Ethnic & Identity Groups/Africans & Diaspora/African-Americans
+101000000548,/People & Society/Ethnic & Identity Groups/Latinos & Latin-Americans
+101000000549,/People & Society/Ethnic & Identity Groups/Asians & Diaspora/East Asians & Diaspora
+101000000550,/People & Society/Ethnic & Identity Groups/Jewish Culture
+101000000551,/Business & Industrial/Small Business
+101000000552,/Business & Industrial/Small Business/MLM & Business Opportunities
+101000000554,/Sports/Extreme Sports
+101000000555,/Law & Government/Government/Visa & Immigration
+101000000556,/People & Society/Ethnic & Identity Groups/Arabs & Middle Easterners
+101000000557,/Beauty & Fitness/Spas & Beauty Services/Massage Therapy
+101000000558,/Health/Reproductive Health/OBGYN
+101000000559,/Health/Health Conditions/Heart & Hypertension
+101000000560,/Food & Drink/Beverages
+101000000563,/Pets & Animals/Pets
+101000000565,/Books & Literature/Poetry
+101000000566,/Business & Industrial/Textiles & Nonwovens
+101000000567,/Shopping/Consumer Resources/Customer Services/Technical Support
+101000000568,/Hobbies & Leisure/Outdoors/Equestrian
+101000000569,/Arts & Entertainment/Events & Listings
+101000000571,/Health/Health Conditions/Eating Disorders
+101000000572,/News/Local News
+101000000573,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment
+101000000574,/Shopping/Photo & Video Services/Stock Photography
+101000000575,/Arts & Entertainment/Online Media/Webcams & Virtual Tours
+101000000576,/Shopping/Photo & Video Services
+101000000577,/Computers & Electronics/Software/Multimedia Software/Photo & Video Software
+101000000578,/Online Communities/Online Goodies/Skins Themes & Wallpapers
+101000000579,/People & Society/Ethnic & Identity Groups/Africans & Diaspora
+101000000580,/People & Society/Ethnic & Identity Groups/Asians & Diaspora/Southeast Asians & Pacific Islanders
+101000000581,/Arts & Entertainment/Performing Arts/Dance
+101000000582,/Online Communities/Online Journals & Personal Sites
+101000000585,/Arts & Entertainment/Music & Audio/Religious Music/Christian & Gospel Music
+101000000586,/Arts & Entertainment/Music & Audio/Classical Music
+101000000587,/Arts & Entertainment/Music & Audio/Country Music
+101000000588,/Arts & Entertainment/Music & Audio/Dance & Electronic Music
+101000000589,/Arts & Entertainment/Music & Audio/Jazz & Blues
+101000000590,/Arts & Entertainment/Music & Audio/Rock Music
+101000000591,/Arts & Entertainment/Music & Audio/World Music/Latin American Music
+101000000592,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop
+101000000593,/Arts & Entertainment/Music & Audio/World Music
+101000000594,/People & Society/Men's Interests
+101000000606,/Business & Industrial/Metals & Mining
+101000000607,/Pets & Animals/Pets/Exotic Pets
+101000000608,/Books & Literature/E-Books
+101000000609,/Reference/Humanities/Myth & Folklore
+101000000610,/Autos & Vehicles/Trucks & SUVs
+101000000611,/Beauty & Fitness/Fitness/Yoga & Pilates
+101000000612,/Arts & Entertainment/Entertainment Industry
+101000000613,/Arts & Entertainment/Online Media
+101000000614,/Arts & Entertainment/Events & Listings/Event Ticket Sales
+101000000615,/Arts & Entertainment/Movies/Horror Films
+101000000616,/Arts & Entertainment/Movies/Science Fiction & Fantasy Films
+101000000617,/Arts & Entertainment/Music & Audio/Music Reference/Song Lyrics & Tabs
+101000000618,/Arts & Entertainment/Music & Audio/Vocals & Show Tunes
+101000000619,/Finance/Financial Planning & Management/Retirement & Pension
+101000000620,/Business & Industrial/Business Finance/Risk Management
+101000000621,/Business & Industrial/Agriculture & Forestry/Food Production
+101000000622,/Games/Roleplaying Games
+101000000623,/Health/Aging & Geriatrics
+101000000624,/Health/Aging & Geriatrics/Alzheimer's Disease
+101000000625,/Health/Health Conditions/AIDS & HIV
+101000000626,/Health/Health Conditions/Allergies
+101000000627,/Health/Health Conditions/Respiratory Conditions/Asthma
+101000000628,/Health/Health Conditions/Arthritis
+101000000629,/Health/Health Conditions/Cold & Flu
+101000000630,/Health/Health Conditions/Diabetes
+101000000631,/Health/Health Conditions/Pain Management/Headaches & Migraines
+101000000632,/Health/Health Conditions/Infectious Diseases
+101000000633,/Health/Health Conditions/Sleep Disorders
+101000000634,/Health/Medical Facilities & Services/Doctors' Offices
+101000000635,/Health/Medical Facilities & Services/Medical Procedures
+101000000636,/Health/Men's Health
+101000000638,/Health/Health Conditions/GERD & Digestive Disorders
+101000000639,/Health/Mental Health/Anxiety & Stress
+101000000640,/Health/Mental Health/Depression
+101000000641,/Health/Mental Health/Learning & Developmental Disabilities
+101000000642,/Health/Mental Health/Learning & Developmental Disabilities/ADD & ADHD
+101000000643,/Health/Health Conditions/Heart & Hypertension/Cholesterol Issues
+101000000644,/Health/Public Health/Occupational Health & Safety
+101000000645,/Health/Pediatrics
+101000000646,/Health/Pharmacy/Drugs & Medications
+101000000647,/Health/Reproductive Health/Infertility
+101000000648,/Health/Women's Health
+101000000649,/Health/Nursing/Assisted Living & Long Term Care
+101000000650,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies
+101000000651,/Business & Industrial/Construction & Maintenance/Civil Engineering
+101000000652,/Business & Industrial/Construction & Maintenance/Construction Consulting & Contracting
+101000000653,/Arts & Entertainment/Visual Art & Design/Design
+101000000654,/Arts & Entertainment/Visual Art & Design/Design/Graphic Design
+101000000655,/Arts & Entertainment/Visual Art & Design/Design/Industrial & Product Design
+101000000656,/Arts & Entertainment/Visual Art & Design/Design/Interior Design
+101000000657,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy
+101000000658,/Business & Industrial/Energy & Utilities/Electricity
+101000000659,/Business & Industrial/Energy & Utilities/Oil & Gas
+101000000660,/Business & Industrial/Energy & Utilities/Waste Management
+101000000661,/Business & Industrial/Manufacturing/Factory Automation
+101000000662,/Business & Industrial/Transportation & Logistics/Aviation
+101000000663,/Business & Industrial/Transportation & Logistics/Mail & Package Delivery/Couriers & Messengers
+101000000664,/Business & Industrial/Transportation & Logistics/Distribution & Logistics
+101000000665,/Business & Industrial/Transportation & Logistics/Maritime Transport
+101000000666,/Business & Industrial/Transportation & Logistics/Rail Transport
+101000000667,/Business & Industrial/Transportation & Logistics/Urban Transport
+101000000668,/Business & Industrial/Aerospace & Defense/Space Technology
+101000000669,/Business & Industrial/Aerospace & Defense/Defense Industry
+101000000670,/Business & Industrial/Chemicals Industry/Agrochemicals
+101000000671,/Business & Industrial/Chemicals Industry/Cleaning Agents
+101000000672,/Business & Industrial/Chemicals Industry/Coatings & Adhesives
+101000000673,/Business & Industrial/Chemicals Industry/Dyes & Pigments
+101000000674,/Business & Industrial/Chemicals Industry/Plastics & Polymers
+101000000675,/Internet & Telecom/Web Services/Web Stats & Analytics
+101000000676,/People & Society/Subcultures & Niche Interests/Science Fiction & Fantasy
+101000000677,/People & Society/Disabled & Special Needs
+101000000678,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events
+101000000681,/People & Society/Ethnic & Identity Groups/Indigenous Peoples
+101000000682,/People & Society/Ethnic & Identity Groups/Eastern Europeans
+101000000683,/People & Society/Ethnic & Identity Groups/Western Europeans
+101000000685,/Reference/Geographic Reference/Maps/Traffic & Public Transit
+101000000686,/Business & Industrial/Construction & Maintenance/Urban & Regional Planning
+101000000687,/Real Estate/Property Development
+101000000688,/Hobbies & Leisure/Outdoors
+101000000689,/Hobbies & Leisure/Water Activities/Surf & Swim
+101000000690,/Reference/General Reference/Biographies & Quotations
+101000000691,/Reference/General Reference/Calculators & Reference Tools
+101000000692,/Reference/General Reference/Dictionaries & Encyclopedias
+101000000693,/Reference/General Reference/Forms Guides & Templates
+101000000694,"/Reference/General Reference/How-To, DIY & Expert Content"
+101000000695,/Reference/General Reference/Time & Calendars
+101000000696,/Shopping/Luxury Goods
+101000000697,/Shopping/Apparel/Footwear
+101000000699,/Sports/Team Sports/Volleyball
+101000000700,/Jobs & Education/Education/Teaching & Classroom Resources
+101000000701,/Law & Government/Legal/Labor & Employment Law
+101000000702,/Law & Government/Government/Royalty
+101000000703,/People & Society/Social Issues & Advocacy/Work & Labor Issues
+101000000704,/Law & Government/Public Safety/Crime & Justice
+101000000705,/Law & Government/Public Safety/Security Products & Services
+101000000706,/Law & Government/Social Services/Welfare & Unemployment
+101000000707,/Travel/Specialty Travel/Adventure Travel
+101000000708,/Travel/Bus & Rail
+101000000717,/Computers & Electronics/Computer Hardware/Computer Components
+101000000718,/Business & Industrial/Business Services/Outsourcing
+101000000719,/Business & Industrial/Business Services/Physical Asset Management
+101000000720,/Business & Industrial/Business Services/Quality Control & Tracking
+101000000721,/Business & Industrial/Business Operations/Management/Business Process
+101000000722,/Business & Industrial/Business Operations/Management/Strategic Planning
+101000000723,/Business & Industrial/Business Operations/Human Resources/Compensation & Benefits
+101000000724,/Business & Industrial/Business Operations/Human Resources/Payroll Services
+101000000725,/Business & Industrial/Business Services/Writing & Editing Services
+101000000726,/Business & Industrial/Business Services/Fire & Security Services
+101000000727,/Business & Industrial/Small Business/Home Office
+101000000728,/Computers & Electronics/Computer Hardware/Computer Servers
+101000000729,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/Network Storage
+101000000730,/Computers & Electronics/Programming/Development Tools
+101000000731,/Computers & Electronics/Programming/C & C++
+101000000732,/Computers & Electronics/Programming/Java (Programming Language)
+101000000733,/Computers & Electronics/Programming/Scripting Languages
+101000000734,/Computers & Electronics/Programming/Windows & .NET
+101000000735,/Computers & Electronics/Software/Operating Systems/Mac OS
+101000000736,/Computers & Electronics/Software/Operating Systems/Linux & Unix
+101000000737,/Computers & Electronics/Software/Operating Systems/Windows OS
+101000000739,/Computers & Electronics/Computer Hardware/Hardware Modding & Tuning
+101000000740,/Computers & Electronics/Computer Hardware/Computer Components/Sound & Video Cards
+101000000741,/Computers & Electronics/Computer Hardware/Computer Components/Chips & Processors
+101000000742,/Computers & Electronics/Electronics & Electrical/Electronic Components
+101000000743,/Computers & Electronics/Electronics & Electrical/Electromechanical Devices
+101000000744,/Computers & Electronics/Electronics & Electrical/Optoelectronics & Fiber
+101000000745,/Computers & Electronics/Electronics & Electrical/Power Supplies
+101000000746,/Computers & Electronics/Electronics & Electrical/Test & Measurement
+101000000747,/Business & Industrial/Agriculture & Forestry/Aquaculture
+101000000748,/Business & Industrial/Agriculture & Forestry/Agricultural Equipment
+101000000749,/Business & Industrial/Agriculture & Forestry/Crops & Seed
+101000000750,/Business & Industrial/Agriculture & Forestry/Forestry
+101000000751,/Business & Industrial/Agriculture & Forestry/Horticulture
+101000000752,/Business & Industrial/Agriculture & Forestry/Livestock
+101000000784,/News/Business News
+101000000785,/News/Technology News
+101000000786,/Hobbies & Leisure/Paintball
+101000000787,/Hobbies & Leisure/Radio Control & Modeling
+101000000788,/Science/Biological Sciences/Anatomy
+101000000791,/Jobs & Education/Education/Homeschooling
+101000000792,/Law & Government/Legal/Legal Education
+101000000793,/Law & Government/Military/Veterans
+101000000794,/Computers & Electronics/Consumer Electronics/GPS & Navigation
+101000000799,/Business & Industrial/Business Education
+101000000800,/Business & Industrial/Business Services/Knowledge Management
+101000000801,/Business & Industrial/Business Operations/Management/Supply Chain Management
+101000000802,/Jobs & Education/Jobs/Job Listings/IT & Technical Jobs
+101000000803,/Autos & Vehicles/Vehicle Shows
+101000000804,/Computers & Electronics/Software/Educational Software
+101000000805,/Computers & Electronics/Software/Multimedia Software/Desktop Publishing/Fonts
+101000000806,/Autos & Vehicles/Custom & Performance Vehicles
+101000000807,/Computers & Electronics/Software/Internet Software
+101000000808,/Computers & Electronics/Software/Internet Software/Content Management
+101000000809,/Arts & Entertainment/Music & Audio/Radio/Podcasting
+101000000810,/Autos & Vehicles/Hybrid & Alternative Vehicles
+101000000811,/Finance/Credit & Lending/Credit Cards
+101000000812,/Finance/Credit & Lending/Debt Management
+101000000813,/Finance/Credit & Lending/Loans/Student Loans & College Financing
+101000000814,/Finance/Investing/Currencies & Foreign Exchange
+101000000815,/Autos & Vehicles/Vehicle Brands
+101000000816,/Business & Industrial/Hospitality Industry/Food Service/Restaurant Supply
+101000000817,/Health/Health Conditions/Injury
+101000000818,/Health/Health Conditions/Obesity
+101000000819,/Health/Health Conditions/Pain Management
+101000000820,/Autos & Vehicles/Vehicle Brands/Acura
+101000000821,/Autos & Vehicles/Vehicle Brands/Audi
+101000000822,/Autos & Vehicles/Vehicle Brands/BMW
+101000000823,/Autos & Vehicles/Vehicle Brands/Cadillac
+101000000824,/Health/Health Conditions/Respiratory Conditions
+101000000825,/Food & Drink/Cooking & Recipes/Cuisines/Vegetarian Cuisine
+101000000826,/Autos & Vehicles/Vehicle Brands/Chevrolet
+101000000827,/Home & Garden/Home Improvement/Doors & Windows
+101000000828,/Home & Garden/HVAC & Climate Control
+101000000829,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies/Nails Screws & Fasteners
+101000000830,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies/Plumbing Fixtures & Equipment
+101000000831,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies/Wood & Plastics
+101000000832,/Home & Garden/Home Improvement/Flooring
+101000000833,/Autos & Vehicles/Vehicle Brands/Chrysler
+101000000834,/Autos & Vehicles/Vehicle Brands/Citroen
+101000000835,/Business & Industrial/Industrial Materials & Equipment/Generators
+101000000836,/Autos & Vehicles/Vehicle Brands/Dodge
+101000000837,/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery
+101000000838,/Autos & Vehicles/Vehicle Brands/Fiat
+101000000839,/Business & Industrial/Industrial Materials & Equipment/Fluid Handling/Valves Hoses & Fittings
+101000000840,/Autos & Vehicles/Vehicle Brands/Ford
+101000000841,/Business & Industrial/Retail Trade
+101000000842,/Autos & Vehicles/Vehicle Brands/GMC
+101000000843,/Autos & Vehicles/Vehicle Brands/Honda
+101000000844,/Business & Industrial/Retail Trade/Retail Equipment & Technology
+101000000845,/Autos & Vehicles/Vehicle Brands/Hyundai
+101000000846,/Autos & Vehicles/Vehicle Brands/Jeep
+101000000847,/Online Communities/Online Goodies/Social Network Apps & Add-Ons
+101000000848,/Autos & Vehicles/Vehicle Brands/Kia
+101000000849,/Autos & Vehicles/Vehicle Brands/Lexus
+101000000850,/Autos & Vehicles/Vehicle Brands/Lincoln
+101000000851,/Autos & Vehicles/Vehicle Brands/Mazda
+101000000852,/Autos & Vehicles/Vehicle Brands/Mercedes-Benz
+101000000853,/Autos & Vehicles/Vehicle Brands/Mercury
+101000000854,/Autos & Vehicles/Vehicle Brands/Mitsubishi
+101000000855,/Autos & Vehicles/Vehicle Brands/Nissan
+101000000856,/Autos & Vehicles/Vehicle Brands/Peugeot
+101000000857,/Autos & Vehicles/Vehicle Brands/Pontiac
+101000000858,/Autos & Vehicles/Vehicle Brands/Porsche
+101000000859,/Autos & Vehicles/Vehicle Brands/Renault-Samsung
+101000000860,/Autos & Vehicles/Vehicle Brands/Saturn
+101000000861,/Autos & Vehicles/Vehicle Brands/Subaru
+101000000862,/People & Society/Religion & Belief/Buddhism
+101000000863,/Autos & Vehicles/Vehicle Brands/Toyota
+101000000864,/People & Society/Religion & Belief/Christianity
+101000000865,/Autos & Vehicles/Vehicle Brands/Volkswagen
+101000000866,/People & Society/Religion & Belief/Hinduism
+101000000867,/Autos & Vehicles/Vehicle Brands/Volvo
+101000000868,/People & Society/Religion & Belief/Islam
+101000000869,/People & Society/Religion & Belief/Judaism
+101000000870,/People & Society/Religion & Belief/Self-Help & Motivational
+101000000882,/Pets & Animals/Animal Products & Services
+101000000883,/Pets & Animals/Animal Products & Services/Animal Welfare
+101000000884,/Pets & Animals/Pets/Birds
+101000000885,/Pets & Animals/Pets/Cats
+101000000886,/Pets & Animals/Pets/Dogs
+101000000887,/Pets & Animals/Pets/Fish & Aquaria
+101000000888,/Pets & Animals/Pets/Horses
+101000000889,/Pets & Animals/Pets/Rabbits & Rodents
+101000000890,/Pets & Animals/Pets/Reptiles & Amphibians
+101000000891,/Arts & Entertainment/Events & Listings/Concerts & Music Festivals
+101000000892,/Arts & Entertainment/Music & Audio/Music Reference/Sheet Music
+101000000893,/Arts & Entertainment/Music & Audio/Soundtracks
+101000000894,/Arts & Entertainment/Performing Arts/Acting & Theater
+101000000895,/Arts & Entertainment/Humor/Live Comedy
+101000000896,/Autos & Vehicles/Vehicle Brands/GM-Daewoo
+101000000897,/Autos & Vehicles/Vehicle Brands/Saab
+101000000898,/Autos & Vehicles/Vehicle Brands/Vauxhall-Opel
+101000000899,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles
+101000000900,/Computers & Electronics/Electronics & Electrical/Data Sheets & Electronics Reference
+101000000901,/Computers & Electronics/Software/Freeware & Shareware
+101000000902,/Computers & Electronics/Software/Internet Software/Proxying & Filtering
+101000000903,/Finance/Financial Planning & Management
+101000000904,/Finance/Investing/Commodities & Futures Trading
+101000000905,/Business & Industrial/Business Finance/Venture Capital
+101000000906,/Food & Drink/Food/Candy & Sweets
+101000000907,/Food & Drink/Food/Baked Goods
+101000000908,/Food & Drink/Food/Fruits & Vegetables
+101000000909,/Food & Drink/Food/Meat & Seafood
+101000000910,/Food & Drink/Cooking & Recipes/Soups & Stews
+101000000911,/Food & Drink/Cooking & Recipes/Cuisines
+101000000912,/Food & Drink/Cooking & Recipes/Cuisines/East Asian Cuisine
+101000000913,/Food & Drink/Cooking & Recipes/Cuisines/Latin American Cuisine
+101000000914,/Food & Drink/Cooking & Recipes/Cuisines/Mediterranean Cuisine
+101000000915,/Food & Drink/Cooking & Recipes/Cuisines/North American Cuisine
+101000000916,/Food & Drink/Beverages/Coffee & Tea
+101000000917,/Food & Drink/Restaurants/Dining Guides
+101000000918,/Food & Drink/Restaurants/Fast Food
+101000000919,/Games/Arcade & Coin-Op Games
+101000000920,/Games/Board Games
+101000000921,/Games/Board Games/Chess & Abstract Strategy Games
+101000000922,/Games/Board Games/Miniatures & Wargaming
+101000000923,/Games/Card Games/Collectible Card Games
+101000000925,/Games/Computer & Video Games/Adventure Games
+101000000926,/Games/Computer & Video Games/Casual Games
+101000000927,/Games/Computer & Video Games/Driving & Racing Games
+101000000928,/Games/Computer & Video Games/Fighting Games
+101000000929,/Games/Computer & Video Games/Music & Dance Games
+101000000930,/Games/Computer & Video Games/Shooter Games
+101000000931,/Games/Computer & Video Games/Simulation Games
+101000000932,/Games/Computer & Video Games/Sports Games
+101000000933,/Games/Computer & Video Games/Strategy Games
+101000000935,/Games/Online Games/Massive Multiplayer
+101000000936,/Games/Party Games
+101000000937,/Games/Puzzles & Brainteasers
+101000000938,/Games/Table Games
+101000000939,/Games/Table Games/Billiards
+101000000940,/Games/Table Games/Table Tennis
+101000000941,/Health/Health Conditions/Genetic Disorders
+101000000942,/Health/Health Conditions/Neurological Disorders
+101000000943,/Health/Medical Facilities & Services/Medical Procedures/Medical Tests & Exams
+101000000944,/Health/Medical Facilities & Services/Medical Procedures/Surgery
+101000000945,/Health/Medical Literature & Resources/Medical Photos & Illustration
+101000000946,/Health/Public Health/Poisons & Overdoses
+101000000947,/Health/Public Health
+101000000948,/Home & Garden/Bed & Bath
+101000000949,/Home & Garden/Domestic Services/Cleaning Supplies & Services
+101000000950,/Home & Garden/Home Improvement/Construction & Power Tools
+101000000951,/Home & Garden/Kitchen & Dining
+101000000952,/Home & Garden/Swimming Pools & Spas
+101000000953,/Home & Garden/Yard & Patio
+101000000954,/Business & Industrial/Energy & Utilities/Nuclear Energy
+101000000955,/Business & Industrial/Hospitality Industry
+101000000956,/Business & Industrial/Hospitality Industry/Event Planning
+101000000957,/Business & Industrial/Hospitality Industry/Food Service
+101000000958,/Jobs & Education
+101000000959,/Jobs & Education/Jobs/Career Resources & Planning
+101000000960,/Jobs & Education/Jobs/Job Listings
+101000000961,/Jobs & Education/Jobs/Resumes & Portfolios
+101000000962,/Law & Government/Government/Embassies & Consulates
+101000000963,/Law & Government/Government/Executive Branch
+101000000964,/Law & Government/Government/Legislative Branch
+101000000965,/Law & Government/Government/Multilateral Organizations
+101000000966,/Law & Government/Government/State & Local Government
+101000000967,/Law & Government/Legal/Constitutional Law & Civil Rights
+101000000968,/Autos & Vehicles/Vehicle Codes & Driving Laws/Drunk Driving Law
+101000000969,/Law & Government/Legal/Legal Services
+101000000970,/Law & Government/Legal/Product Liability
+101000000972,/Online Communities/Virtual Worlds
+101000000973,/People & Society/Ethnic & Identity Groups/Expatriate Communities
+101000000974,/People & Society/Family & Relationships/Family/Parenting/Adoption
+101000000975,/People & Society/Religion & Belief/Skeptics & Non-Believers
+101000000976,/People & Society/Social Issues & Advocacy/Reproductive Rights
+101000000977,/Hobbies & Leisure/Special Occasions
+101000000978,/Online Communities/Photo & Video Sharing/Photo & Image Sharing
+101000000979,/Online Communities/Photo & Video Sharing/Video Sharing
+101000000980,/Reference/General Reference
+101000000981,/Science/Biological Sciences/Flora & Fauna
+101000000982,/Science/Biological Sciences/Genetics
+101000000983,/Shopping/Apparel/Athletic Apparel
+101000000984,/Shopping/Apparel/Casual Apparel
+101000000985,/Shopping/Apparel/Children's Clothing
+101000000986,/Shopping/Apparel/Clothing Accessories/Handbags & Purses
+101000000987,/Shopping/Apparel/Clothing Accessories/Watches
+101000000988,/Shopping/Apparel/Costumes
+101000000989,/Shopping/Apparel/Eyewear
+101000000990,/Shopping/Apparel/Formal Wear
+101000000991,/Shopping/Apparel/Headwear
+101000000992,/Shopping/Apparel/Men's Clothing
+101000000993,/Shopping/Apparel/Outerwear
+101000000994,/Shopping/Apparel/Sleepwear
+101000000995,/Shopping/Apparel/Swimwear
+101000000996,/Shopping/Apparel/Uniforms & Workwear
+101000000997,/Shopping/Apparel/Women's Clothing
+101000000998,/Sports/Fantasy Sports
+101000000999,/Hobbies & Leisure/Recreational Aviation
+101000001000,/Sports/Individual Sports
+101000001001,/Sports/Team Sports
+101000001002,/Hobbies & Leisure/Water Activities
+101000001003,/Travel/Luggage & Travel Accessories
+101000001004,/Travel/Specialty Travel
+101000001005,/Travel/Specialty Travel/Ecotourism
+101000001006,/Travel/Tourist Destinations/Historical Sites & Buildings
+101000001007,/Travel/Tourist Destinations/Regional Parks & Gardens
+101000001008,/Travel/Tourist Destinations/Theme Parks
+101000001009,/Travel/Tourist Destinations/Zoos-Aquariums-Preserves
+101000001010,/Travel/Travel Agencies & Services
+101000001011,/Travel/Travel Guides & Travelogues
+101000001012,/Jobs & Education/Education/Early Childhood Education
+101000001013,/Autos & Vehicles/Classic Vehicles
+101000001014,/Reference/Geographic Reference/City & Local Guides
+101000001015,/Jobs & Education/Education/Alumni & Reunions
+101000001016,/Sports/Individual Sports/Bowling
+101000001017,/Sports/Team Sports/Handball
+101000001019,/Travel/Travel Agencies & Services/Vacation Offers
+101000001020,/Arts & Entertainment/Music & Audio/Religious Music
+101000001021,/Arts & Entertainment/Music & Audio/Pop Music
+101000001022,/Arts & Entertainment/Music & Audio/Experimental & Industrial Music
+101000001023,/Arts & Entertainment/Music & Audio/Folk & Traditional Music
+101000001024,/Arts & Entertainment/Music & Audio/Music Equipment & Technology
+101000001025,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/DJ Resources & Equipment
+101000001026,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Music Recording Technology
+101000001027,/Arts & Entertainment/Music & Audio/Music Reference
+101000001028,/Arts & Entertainment/Music & Audio/Music Reference/Music Composition & Theory
+101000001030,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop/Rap & Hip-Hop
+101000001031,/Arts & Entertainment/Music & Audio/World Music/Reggae & Caribbean Music
+101000001032,/Arts & Entertainment/Music & Audio/World Music/South Asian Music
+101000001033,/Arts & Entertainment/Music & Audio/World Music/East Asian Music
+101000001034,/Arts & Entertainment/Music & Audio/World Music/Arab & Middle Eastern Music
+101000001035,/Arts & Entertainment/Music & Audio/Rock Music/Hard Rock & Progressive
+101000001036,/Arts & Entertainment/Music & Audio/Rock Music/Metal (Music)
+101000001037,/Arts & Entertainment/Music & Audio/Rock Music/Classic Rock & Oldies
+101000001038,/Arts & Entertainment/Music & Audio/Rock Music/Indie & Alternative Music
+101000001039,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop/Soul & R&B
+101000001040,/Arts & Entertainment/Music & Audio/Jazz & Blues/Blues
+101000001041,/Arts & Entertainment/Music & Audio/Rock Music/Punk (Music)
+101000001043,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles/Nintendo
+101000001044,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles/Sony PlayStation
+101000001045,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles/Xbox
+101000001046,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles/Handheld Game Consoles
+101000001047,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Comedies
+101000001048,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Talk Shows
+101000001049,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Reality Shows
+101000001050,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Game Shows
+101000001055,/Arts & Entertainment/TV & Video/TV Commercials
+101000001056,/Autos & Vehicles/Trucks & SUVs/Trucks
+101000001057,/Autos & Vehicles/Trucks & SUVs/SUVs
+101000001058,/Autos & Vehicles/Trucks & SUVs/Vans & Minivans
+101000001059,/Autos & Vehicles/Vehicle Brands/Bentley
+101000001060,/Autos & Vehicles/Vehicle Brands/Buick
+101000001061,/Autos & Vehicles/Vehicle Brands/Ferrari
+101000001062,/Autos & Vehicles/Vehicle Brands/Hummer
+101000001063,/Autos & Vehicles/Vehicle Brands/Jaguar
+101000001064,/Autos & Vehicles/Vehicle Brands/Lamborghini
+101000001065,/Autos & Vehicles/Vehicle Brands/Land Rover
+101000001066,/Autos & Vehicles/Vehicle Brands/Maserati
+101000001067,/Autos & Vehicles/Vehicle Brands/Mini
+101000001068,/Autos & Vehicles/Vehicle Brands/Rolls-Royce
+101000001069,/Autos & Vehicles/Vehicle Brands/Toyota/Scion
+101000001070,/Autos & Vehicles/Vehicle Brands/Suzuki
+101000001071,/Internet & Telecom/Mobile & Wireless/Mobile Phones/Smart Phones
+101000001072,/Arts & Entertainment/Movies/Documentary Films
+101000001073,/Sports/College Sports
+101000001074,/Travel/Tourist Destinations/Beaches & Islands
+101000001075,/Law & Government/Government/Courts & Judiciary
+101000001076,/Business & Industrial/Business Services/Signage
+101000001077,/News/Sports News
+101000001078,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Christian Holidays/Christmas
+101000001079,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Halloween & October 31st
+101000001080,/Real Estate/Real Estate Listings
+101000001081,/Real Estate/Timeshares & Vacation Properties
+101000001082,/Sports/Sports Coaching & Training
+101000001083,/Sports/Sporting Goods/Sports Memorabilia
+101000001084,/Reference/Geographic Reference
+101000001085,/Arts & Entertainment/Events & Listings/Movie Listings & Theater Showtimes
+101000001086,/Arts & Entertainment/Events & Listings/Film Festivals
+101000001087,/Arts & Entertainment/Music & Audio/Music Education & Instruction
+101000001088,/Computers & Electronics/Software/Multimedia Software/Desktop Publishing
+101000001089,/Computers & Electronics/Software/Multimedia Software/Audio & Music Software
+101000001090,/Computers & Electronics/Software/Multimedia Software/Media Players
+101000001091,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Samples & Sound Libraries
+101000001092,/Computers & Electronics/Software/Multimedia Software/Audio & Music Software/Audio Files Formats & Codecs
+101000001093,/Reference/Humanities/Philosophy
+101000001094,/Arts & Entertainment/Movies/Drama Films
+101000001095,/Arts & Entertainment/Movies/Comedy Films
+101000001096,"/Arts & Entertainment/Movies/Thriller, Crime & Mystery Films"
+101000001097,/Arts & Entertainment/Movies/Action & Adventure Films
+101000001098,/Arts & Entertainment/Movies/Classic Films/Silent Films
+101000001099,/Arts & Entertainment/Movies/Action & Adventure Films/Western Films
+101000001100,/Arts & Entertainment/Movies/Action & Adventure Films/Superhero Films
+101000001101,/Arts & Entertainment/Movies/Action & Adventure Films/Martial Arts Films
+101000001102,/Arts & Entertainment/Movies/Classic Films
+101000001103,/Arts & Entertainment/Movies/Cult & Indie Films
+101000001104,/Arts & Entertainment/Movies/Animated Films
+101000001105,/Arts & Entertainment/Movies/Musical Films
+101000001106,/Arts & Entertainment/Movies/Movie Reference
+101000001107,/Arts & Entertainment/Movies/Movie Reference/Movie Reviews & Previews
+101000001108,/Arts & Entertainment/Entertainment Industry/Film & TV Industry/Film & TV Awards
+101000001109,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons
+101000001110,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Family-Oriented Shows
+101000001111,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Dramas/TV Crime & Legal Shows
+101000001112,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Sci-Fi & Fantasy Shows
+101000001113,/Arts & Entertainment/Entertainment Industry/Recording Industry/Music Awards
+101000001114,/Arts & Entertainment/Entertainment Industry/Recording Industry/Record Labels
+101000001115,/Arts & Entertainment/Entertainment Industry/Recording Industry
+101000001116,/Arts & Entertainment/Entertainment Industry/Film & TV Industry
+101000001117,/Arts & Entertainment/Entertainment Industry/Film & TV Industry/Film & TV Production
+101000001118,/Jobs & Education/Education/Special Education
+101000001119,/Travel/Tourist Destinations/Mountain & Ski Resorts
+101000001120,/Travel/Tourist Destinations/Lakes & Rivers
+101000001121,/People & Society/Social Issues & Advocacy/Work & Labor Issues/Unions & Labor Movement
+101000001122,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Valentine's Day
+101000001123,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Christian Holidays/Easter
+101000001124,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Jewish Holidays
+101000001125,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Thanksgiving
+101000001126,/Sports/Individual Sports/Skate Sports
+101000001127,/People & Society/Social Issues & Advocacy/Poverty & Hunger
+101000001131,/People & Society/Family & Relationships
+101000001132,/People & Society/Family & Relationships/Family
+101000001133,/People & Society/Family & Relationships/Marriage
+101000001134,/People & Society/Family & Relationships/Friendship
+101000001135,/People & Society/Family & Relationships/Romance
+101000001136,/Reference/General Reference/Public Records
+101000001137,/Reference/General Reference/Forms Guides & Templates/Legal Forms
+101000001138,/Business & Industrial/Business Finance
+101000001139,/Business & Industrial/Business Finance/Investment Banking
+101000001140,/Autos & Vehicles/Boats & Watercraft
+101000001141,/Science/Engineering & Technology/Robotics
+101000001142,/Internet & Telecom/Web Apps & Online Tools
+101000001143,/Shopping/Entertainment Media
+101000001144,/Shopping/Entertainment Media/Entertainment Media Rentals
+101000001145,/Arts & Entertainment/Movies/DVD & Video Shopping/DVD & Video Rentals
+101000001146,/Games/Computer & Video Games/Video Game Retailers
+101000001147,/Autos & Vehicles/Personal Aircraft
+101000001148,/Sports/Winter Sports/Skiing & Snowboarding
+101000001149,/Sports/Winter Sports/Ice Skating
+101000001150,/Business & Industrial/Transportation & Logistics/Mail & Package Delivery
+101000001152,/Business & Industrial/Industrial Materials & Equipment/Fluid Handling
+101000001153,/Home & Garden/Home Improvement/Plumbing
+101000001155,/Beauty & Fitness/Fashion & Style/Fashion Modeling
+101000001157,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Home Theater Systems
+101000001158,/Computers & Electronics/Consumer Electronics/Audio Equipment/Speakers
+101000001159,/Business & Industrial/Business Operations
+101000001160,/Business & Industrial/Business Finance/Commercial Lending
+101000001161,/Law & Government/Government/Public Finance
+101000001162,/Business & Industrial/Business Services/Consulting
+101000001163,/News/Business News/Financial Markets
+101000001164,/News/Business News/Economy News
+101000001165,/News/Business News/Fiscal Policy News
+101000001166,/People & Society/Social Issues & Advocacy/Housing & Development
+101000001167,/Arts & Entertainment/Visual Art & Design/Painting
+101000001168,/Science/Earth Sciences
+101000001169,/Science/Earth Sciences/Paleontology
+101000001170,/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories/Bluetooth Accessories
+101000001171,/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories
+101000001173,/Games/Family-Oriented Games & Activities/Dress-Up & Fashion Games
+101000001174,/Arts & Entertainment/Fun & Trivia/Fun Tests & Silly Surveys
+101000001175,/Home & Garden/Home Improvement/Roofing
+101000001176,/Business & Industrial/Printing & Publishing
+101000001177,/Books & Literature/Writers Resources
+101000001178,/Real Estate/Commercial & Investment Real Estate
+101000001179,/News/Business News/Company News
+101000001180,/Arts & Entertainment/Humor/Political Humor
+101000001181,/Law & Government/Public Safety/Crime & Justice/Corporate & Financial Crime
+101000001182,/Internet & Telecom/Communications Equipment/Radio Equipment
+101000001183,/Books & Literature/Children's Literature
+101000001184,/Books & Literature/Literary Classics
+101000001185,/Arts & Entertainment/Performing Arts/Opera
+101000001186,/Arts & Entertainment/Music & Audio/Radio/Talk Radio
+101000001187,/Arts & Entertainment/TV & Video/TV Guides & Reference
+101000001188,/Computers & Electronics/Consumer Electronics/Car Electronics
+101000001189,/Computers & Electronics/Consumer Electronics/Car Electronics/Car Video
+101000001190,/Business & Industrial/Automotive Industry
+101000001191,/Autos & Vehicles/Bicycles & Accessories
+101000001192,/Computers & Electronics/Consumer Electronics/Electronic Accessories
+101000001193,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Dramas
+101000001194,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Dramas/TV Medical Shows
+101000001195,/Arts & Entertainment/Visual Art & Design/Arts Education
+101000001198,/Sports/World Sports Competitions
+101000001199,/Business & Industrial/Professional & Trade Associations
+101000001200,/Business & Industrial/Small Business/Business Formation
+101000001201,/News/Politics/Opinion & Commentary
+101000001202,/News/Politics/Political Polls & Surveys
+101000001203,/News/Politics/Media Critics & Watchdogs
+101000001204,/News/Journalism & News Industry
+101000001205,/People & Society/Social Issues & Advocacy/Discrimination & Identity Relations
+101000001208,/Arts & Entertainment/Music & Audio/World Music/African Music
+101000001209,/News/World News
+101000001210,/Shopping/Swap Meets & Outdoor Markets
+101000001211,/Health/Health Conditions/Ear Nose & Throat
+101000001212,/Autos & Vehicles/Scooters & Mopeds
+101000001213,/Autos & Vehicles/Campers & RVs
+101000001214,/Autos & Vehicles/Commercial Vehicles
+101000001215,/Autos & Vehicles/Commercial Vehicles/Cargo Trucks & Trailers
+101000001216,/Autos & Vehicles/Vehicle Parts & Accessories/Engine & Transmission
+101000001217,/Autos & Vehicles/Vehicle Parts & Accessories/Auto Exterior
+101000001218,/Autos & Vehicles/Vehicle Parts & Accessories/Auto Interior
+101000001219,/Beauty & Fitness/Beauty Pageants
+101000001220,/Beauty & Fitness/Cosmetic Procedures
+101000001221,/Law & Government/Government/Intelligence & Counterterrorism
+101000001222,/Arts & Entertainment/Online Media/Online Image Galleries
+101000001223,/Online Communities/Online Goodies/Clip Art & Animated GIFs
+101000001224,/Health/Vision Care/Eyeglasses & Contacts
+101000001225,/Shopping/Wholesalers & Liquidators
+101000001226,/Science/Biological Sciences/Neuroscience
+101000001227,/Science/Computer Science
+101000001228,/Shopping/Apparel/Apparel Services
+101000001229,/Jobs & Education/Education/Vocational & Continuing Education/Computer Education
+101000001230,/Hobbies & Leisure/Crafts/Fiber & Textile Arts
+101000001231,/People & Society/Family & Relationships/Family/Baby & Pet Names
+101000001232,/Home & Garden/Home Improvement/House Painting & Finishing
+101000001233,/Reference/Technical Reference
+101000001234,/Internet & Telecom/Search Engines/People Search
+101000001235,/Health/Substance Abuse/Steroids & Performance-Enhancing Drugs
+101000001236,/Health/Reproductive Health/Sexual Enhancement
+101000001237,/Health/Substance Abuse/Smoking & Smoking Cessation
+101000001238,/Health/Alternative & Natural Medicine/Cleansing & Detoxification
+101000001239,/Health/Alternative & Natural Medicine/Acupuncture & Chinese Medicine
+101000001240,/News/Business News/Company News/Company Earnings
+101000001241,/News/Business News/Company News/Mergers & Acquisitions
+101000001242,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop/Reggaeton
+101000001243,/Arts & Entertainment/Performing Arts/Broadway & Musical Theater
+101000001244,/Arts & Entertainment/Humor/Spoofs & Satire
+101000001245,/Travel/Air Travel/Airport Parking & Transportation
+101000001246,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Carnival & Mardi Gras
+101000001247,/Law & Government/Military/Air Force
+101000001248,/Law & Government/Military/Army
+101000001249,/Law & Government/Military/Navy
+101000001250,/Law & Government/Military/Marines
+101000001251,/People & Society/Religion & Belief/Scientology
+101000001252,/Science/Mathematics/Statistics
+101000001253,/News/Health News
+101000001254,/Science/Earth Sciences/Atmospheric Science
+101000001255,/Science/Ecology & Environment/Climate Change & Global Warming
+101000001256,/Health/Public Health/Health Policy
+101000001257,/People & Society/Ethnic & Identity Groups/Asians & Diaspora
+101000001258,/People & Society/Religion & Belief/Pagan & Esoteric Traditions
+101000001259,/News/Gossip & Tabloid News/Scandals & Investigations
+101000001260,/People & Society/Family & Relationships/Troubled Relationships
+101000001261,/People & Society/Family & Relationships/Troubled Relationships/Divorce & Separation
+101000001262,/Health/Health Conditions/Infectious Diseases/Parasites & Parasitic Diseases
+101000001263,/Health/Health Conditions/Infectious Diseases/Vaccines & Immunizations
+101000001264,/Reference/Language Resources/Foreign Language Resources
+101000001265,/Reference/Language Resources/Foreign Language Resources/Translation Tools & Resources
+101000001266,/Reference/Language Resources/Foreign Language Resources/Foreign Language Study
+101000001267,"/Autos & Vehicles/Vehicle Shopping/Vehicle Specs, Reviews & Comparisons"
+101000001268,/Autos & Vehicles/Vehicle Shopping/Fuel Economy & Gas Prices
+101000001269,/Autos & Vehicles/Vehicle Parts & Accessories/Vehicle Fuels & Lubricants
+101000001270,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Birthdays & Name Days
+101000001271,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/New Year
+101000001272,/Law & Government/Legal/Business & Corporate Law
+101000001273,/Arts & Entertainment/Events & Listings/Live Sporting Events
+101000001274,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Christian Holidays
+101000001275,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events/Islamic Holidays
+101000001276,"/Hobbies & Leisure/Contests, Awards & Prizes"
+101000001277,/Computers & Electronics/Computer Hardware/Laptops & Notebooks/Tablet PCs
+101000001278,/Science/Biological Sciences/Flora & Fauna/Insects & Entomology
+101000001279,/Computers & Electronics/Networking/VPN & Remote Access
+101000001280,/People & Society/Social Issues & Advocacy/Human Rights & Liberties
+101000001281,/People & Society/Social Issues & Advocacy/Privacy Issues
+101000001282,"/Finance/Grants, Scholarships & Financial Aid"
+101000001283,/Finance/Accounting & Auditing/Tax Preparation & Planning
+101000001284,/Law & Government/Public Safety/Crime & Justice/Prisons & Corrections
+101000001285,/Arts & Entertainment/Music & Audio/World Music/Latin American Music/Latin Pop
+101000001286,/Arts & Entertainment/Music & Audio/World Music/Latin American Music/Salsa & Tropical Music
+101000001287,/Arts & Entertainment/Music & Audio/World Music/Latin American Music/Brazilian Music
+101000001288,/Reference/Humanities/History/Military History
+101000001289,/Jobs & Education/Education/Academic Conferences & Publications
+101000001290,/Games/Family-Oriented Games & Activities
+101000001291,/Arts & Entertainment/Movies/Family Films
+101000001292,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances
+101000001293,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances
+101000001294,/Autos & Vehicles/Vehicle Codes & Driving Laws
+101000001296,/People & Society/Religion & Belief/Places of Worship
+101000001298,/Science/Computer Science/Distributed & Parallel Computing
+101000001299,/Science/Computer Science/Machine Learning & Artificial Intelligence
+101000001300,/Computers & Electronics/CAD & CAM
+101000001301,/People & Society/Social Issues & Advocacy/Same-Sex Marriage
+101000001302,/People & Society/Social Sciences/Communications & Media Studies
+101000001303,/People & Society/Social Sciences/Communications & Media Studies/Public Speaking
+101000001304,/People & Society/Family & Relationships/Etiquette
+101000001305,/Hobbies & Leisure/Water Activities/Diving & Underwater Activities
+101000001306,/Business & Industrial/Transportation & Logistics/Parking
+101000001307,/Business & Industrial/Energy & Utilities/Waste Management/Recycling
+101000001308,/Jobs & Education/Education/Study Abroad
+101000001309,/Shopping/Consumer Resources/Customer Services/Loyalty Cards & Programs
+101000001310,/Arts & Entertainment/Movies/Romance Films
+101000001311,/Games/Computer & Video Games/Action & Platform Games
+101000001312,/Law & Government/Public Safety/Crime & Justice/Gangs & Organized Crime
+101000001313,/People & Society/Social Issues & Advocacy/Immigration Policy & Border Issues
+101000001314,/People & Society/Social Issues & Advocacy/Drug Laws & Policy
+101000001315,/Computers & Electronics/Software/Multimedia Software/Photo & Video Software/Video File Formats & Codecs
+101000001316,/Law & Government/Government/Public Policy
+101000001317,/Autos & Vehicles/Microcars & City Cars
+101000001318,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/Flash Drives & Memory Cards
+101000001319,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/Memory Card Readers
+101000001320,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/Hard Drives
+101000001321,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/CD & DVD Drives & Burners
+101000001322,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/CD & DVD Storage Media
+101000001323,/Computers & Electronics/Computer Hardware/Computer Drives & Storage/Data Backup & Recovery
+101000001324,/Computers & Electronics/Consumer Electronics/Gadgets & Portable Electronics/E-Book Readers
+101000001325,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Musical Instruments/Guitars
+101000001326,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Musical Instruments/Pianos & Keyboards
+101000001327,/Arts & Entertainment/Music & Audio/Music Equipment & Technology/Musical Instruments/Drums & Percussion
+101000001328,/Health/Health Conditions/Endocrine Conditions
+101000001329,/Health/Health Conditions/Endocrine Conditions/Thyroid Conditions
+101000001330,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax"
+101000001331,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax/Copiers"
+101000001332,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax/Fax Machines"
+101000001333,"/Computers & Electronics/Computer Hardware/Computer Peripherals/Printers, Copiers & Fax/Ink & Toner"
+101000001334,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Projectors & Screens
+101000001339,/Travel/Carpooling & Vehicle Sharing
+101000001340,/People & Society/Religion & Belief/Theology & Religious Study
+101000001341,/Computers & Electronics/Software/Business & Productivity Software/Accounting & Financial Software
+101000001342,/Games/Computer & Video Games/Video Game Emulation
+101000001343,/Games/Computer & Video Games/Gaming Media & Reference
+101000001344,/Computers & Electronics/Software/Business & Productivity Software/Spreadsheet Software
+101000001345,/Computers & Electronics/Software/Business & Productivity Software/Word Processing Software
+101000001346,/Computers & Electronics/Software/Business & Productivity Software/Presentation Software
+101000001347,/Business & Industrial/Transportation & Logistics/Public Storage
+101000001348,/Home & Garden/Home Storage & Shelving
+101000001349,/Business & Industrial/Energy & Utilities/Water Supply & Treatment
+101000001350,/Health/Substance Abuse/Drug & Alcohol Treatment
+101000001351,/Health/Substance Abuse/Drug & Alcohol Testing
+101000001352,/Health/Medical Devices & Equipment/Assistive Technology
+101000001353,/Health/Medical Devices & Equipment/Assistive Technology/Mobility Equipment & Accessories
+101000001354,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Televisions/HDTVs
+101000001355,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Televisions/Plasma TVs
+101000001356,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Televisions/LCD TVs
+101000001357,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Televisions/Projection TVs
+101000001358,/Computers & Electronics/Software/Business & Productivity Software/Calendar & Scheduling Software
+101000001359,/Computers & Electronics/Software/Business & Productivity Software/Project Management Software
+101000001360,/Business & Industrial/Business Operations/Management/Project Management
+101000001361,/Arts & Entertainment/Visual Art & Design/Art & Craft Supplies
+101000001362,/Home & Garden/Home Furnishings/Rugs & Carpets
+101000001363,/Home & Garden/Home Furnishings/Clocks
+101000001364,/Home & Garden/Laundry
+101000001365,/Home & Garden/Bed & Bath/Bathroom
+101000001366,/Home & Garden/Bed & Bath/Bedroom
+101000001367,/Home & Garden/Bed & Bath/Bedroom/Beds & Headboards
+101000001368,/Home & Garden/Bed & Bath/Bedroom/Mattresses
+101000001369,/Home & Garden/Bed & Bath/Bedroom/Bedding & Bed Linens
+101000001370,/Home & Garden/Home Furnishings/Sofas & Chairs
+101000001371,/Home & Garden/Home Appliances/Water Filters & Purifiers
+101000001372,/Home & Garden/Nursery & Playroom
+101000001373,/Home & Garden/Kitchen & Dining/Cookware & Diningware/Cutlery & Cutting Accessories
+101000001374,/People & Society/Family & Relationships/Family/Parenting/Babies & Toddlers
+101000001375,/Business & Industrial/Printing & Publishing/Document & Printing Services/Business Cards & Stationary
+101000001376,/Sports/Individual Sports/Racquet Sports/Tennis
+101000001377,/Autos & Vehicles/Vehicle Brands/Nissan/Infiniti
+101000001378,/Autos & Vehicles/Vehicle Brands/Isuzu
+101000001379,/Internet & Telecom/Email & Messaging/Text & Instant Messaging
+101000001380,/Autos & Vehicles/Hybrid & Alternative Vehicles/Electric & Plug-In Vehicles
+101000001381,/Online Communities/Blogging Resources & Services/Microblogging
+101000001382,/Computers & Electronics/Software/Operating Systems/Mobile OS
+101000001383,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment/Cameras & Camcorders/Camera Lenses
+101000001384,"/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment/Binoculars, Telescopes & Optical Devices"
+101000001385,/Law & Government/Government/Government Contracting & Procurement
+101000001386,/Law & Government/Government/Lobbying
+101000001387,/Law & Government/Government/Government Agencies
+101000001388,/Jobs & Education/Education/Training & Certification
+101000001389,/Travel/Specialty Travel/Agritourism
+101000001390,/Travel/Specialty Travel/Sightseeing Tours
+101000001391,/Travel/Specialty Travel/Vineyards & Wine Tourism
+101000001392,/Travel/Travel Agencies & Services/Tourist Boards & Visitor Centers
+101000001393,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/DVRs & Set-Top Boxes
+101000001394,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Video Players & Recorders/Blu-Ray Players & Recorders
+101000001395,/Computers & Electronics/Consumer Electronics/TV & Video Equipment/Video Players & Recorders/DVD Players & Recorders
+101000001396,/Computers & Electronics/Consumer Electronics/Audio Equipment/Headphones
+101000001397,/Games/Family-Oriented Games & Activities/Drawing & Coloring
+101000001398,/Autos & Vehicles/Bicycles & Accessories/Bike Accessories
+101000001399,/Autos & Vehicles/Bicycles & Accessories/Bike Frames
+101000001400,/Autos & Vehicles/Bicycles & Accessories/Bike Helmets & Protective Gear
+101000001401,/Autos & Vehicles/Bicycles & Accessories/Bike Parts & Repair
+101000001402,/Autos & Vehicles/Bicycles & Accessories/BMX Bikes
+101000001403,/Autos & Vehicles/Bicycles & Accessories/Cruiser Bikes
+101000001404,/Autos & Vehicles/Bicycles & Accessories/Kid's Bikes
+101000001405,/Autos & Vehicles/Bicycles & Accessories/Mountain Bikes
+101000001406,/Autos & Vehicles/Bicycles & Accessories/Road Bikes
+101000001407,/Autos & Vehicles/Bicycles & Accessories/Cycling Apparel
+101000001408,/Arts & Entertainment/Music & Audio/Music Videos
+101000001409,/Arts & Entertainment/TV & Video/Online Video/Web Series
+101000001410,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Talent & Variety Shows
+101000001411,/Arts & Entertainment/TV & Video/TV Shows & Programs/TV Documentary & Nonfiction
+101000001412,/Arts & Entertainment/Visual Art & Design/Sculpture
+101000001413,/Autos & Vehicles/Vehicle Brands/Fiat/Alfa Romeo
+101000001414,/Autos & Vehicles/Vehicle Brands/SEAT
+101000001415,/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration/Driving Instruction & Driver Education
+101000001416,/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle & Traffic Safety
+101000001417,/Beauty & Fitness/Fitness/Fitness Equipment & Accessories
+101000001418,/Beauty & Fitness/Fitness/Fitness Instruction & Personal Training
+101000001419,/Beauty & Fitness/Fitness/Gyms & Health Clubs
+101000001420,/Business & Industrial/Advertising & Marketing/Promotional Items & Corporate Gifts
+101000001421,/Home & Garden/Home Improvement/Locks & Locksmiths
+101000001422,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy/Solar Power
+101000001423,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy/Wind Power
+101000001424,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy/Hydropower
+101000001425,/Business & Industrial/Metals & Mining/Precious Metals
+101000001426,/Business & Industrial/Transportation & Logistics/Warehousing
+101000001427,/Finance/Accounting & Auditing/Billing & Invoicing
+101000001428,/Finance/Accounting & Auditing/Bookkeeping
+101000001429,/Finance/Banking/ATMs & Branch Locations
+101000001430,/Finance/Banking/Debit & Checking Services
+101000001431,/Finance/Banking/Savings Accounts
+101000001432,/Finance/Banking/Money Transfer & Wire Services
+101000001433,/Finance/Credit & Lending/Credit Reporting & Monitoring
+101000001434,/Finance/Credit & Lending/Debt Collection & Repossession
+101000001435,/Finance/Credit & Lending/Loans
+101000001436,/Finance/Credit & Lending/Loans/Personal Loans
+101000001437,/Finance/Credit & Lending/Loans/Personal Loans/Short-Term Loans & Cash Advances
+101000001438,/Finance/Financial Planning & Management/Inheritance & Estate Planning
+101000001439,/Finance/Financial Planning & Management/Asset & Portfolio Management
+101000001440,"/Finance/Grants, Scholarships & Financial Aid/Government Grants"
+101000001441,"/Finance/Grants, Scholarships & Financial Aid/Study Grants & Scholarships"
+101000001442,/Finance/Insurance/Life Insurance
+101000001443,/Finance/Insurance/Travel Insurance
+101000001444,/Finance/Insurance/Vehicle Insurance
+101000001445,/Finance/Credit & Lending/Loans/Home Financing/Home Equity Loans & Lines of Credit
+101000001446,/Finance/Credit & Lending/Loans/Home Financing/Home Refinancing
+101000001447,/Finance/Credit & Lending/Loans/Home Financing/Mortgages
+101000001448,/Finance/Credit & Lending/Loans/Vehicle Financing
+101000001449,/Finance/Investing/Brokerages & Day Trading
+101000001450,/Finance/Investing/Derivatives
+101000001451,/Finance/Investing/Funds
+101000001452,/Finance/Investing/Funds/Exchange Traded Funds
+101000001453,/Finance/Investing/Funds/Hedge Funds
+101000001454,/Finance/Investing/Funds/Mutual Funds
+101000001455,/Finance/Investing/Real Estate Investment Trusts
+101000001456,/Finance/Investing/Socially Responsible Investing
+101000001457,/Finance/Investing/Stocks & Bonds
+101000001458,/Finance/Investing/Stocks & Bonds/Bonds
+101000001459,/Finance/Investing/Stocks & Bonds/Exchanges
+101000001460,/Real Estate/Bank-Owned & Foreclosed Properties
+101000001461,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons/Android Apps
+101000001462,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons/iOS Apps
+101000001463,/Internet & Telecom/Service Providers/Internet Cafes
+101000001464,/Internet & Telecom/Web Services/Hosted Data Storage
+101000001465,"/Jobs & Education/Education/Colleges & Universities/Fraternities, Sororities & Student Societies"
+101000001466,/Jobs & Education/Education/Teaching & Classroom Resources/Lesson Plans
+101000001467,/Jobs & Education/Education/Teaching & Classroom Resources/School Supplies & Classroom Equipment
+101000001468,/Hobbies & Leisure/Clubs & Organizations/Fraternal Orders & Service Clubs
+101000001469,/Hobbies & Leisure/Clubs & Organizations/Youth Organizations & Resources
+101000001470,/Hobbies & Leisure/Crafts/Ceramics & Pottery
+101000001471,/Jobs & Education/Internships
+101000001472,/Jobs & Education/Jobs/Job Listings/Accounting & Finance Jobs
+101000001473,/Jobs & Education/Jobs/Job Listings/Clerical & Administrative Jobs
+101000001474,/Jobs & Education/Jobs/Job Listings/Education Jobs
+101000001475,/Jobs & Education/Jobs/Job Listings/Executive & Management Jobs
+101000001476,/Jobs & Education/Jobs/Job Listings/Government & Public Sector Jobs
+101000001477,/Jobs & Education/Jobs/Job Listings/Health & Medical Jobs
+101000001478,/Jobs & Education/Jobs/Job Listings/Legal Jobs
+101000001479,/Jobs & Education/Jobs/Job Listings/Retail Jobs
+101000001480,/Jobs & Education/Jobs/Job Listings/Temporary & Seasonal Jobs
+101000001481,/Jobs & Education/Jobs/Job Listings/Sales & Marketing Jobs
+101000001482,/Online Communities/Feed Aggregation & Social Bookmarking
+101000001483,/People & Society/Social Issues & Advocacy/Ethics
+101000001484,/People & Society/Social Sciences/Anthropology
+101000001485,/People & Society/Social Sciences/Archaeology
+101000001486,/Shopping/Apparel/Clothing Accessories/Gems & Jewelry/Rings
+101000001487,/Shopping/Apparel/Eyewear/Sunglasses
+101000001488,/Shopping/Apparel/Footwear/Athletic Shoes
+101000001489,/Shopping/Apparel/Footwear/Boots
+101000001490,/Shopping/Apparel/Footwear/Casual Shoes
+101000001491,/Games/Computer & Video Games/Video Game Development
+101000001492,/Games/Dice Games
+101000001493,/Games/Educational Games
+101000001494,/Games/Word Games
+101000001495,/Games/Computer & Video Games/Simulation Games/Vehicle Simulators
+101000001496,/Games/Computer & Video Games/Simulation Games/City Building Games
+101000001497,/Games/Computer & Video Games/Simulation Games/Business & Tycoon Games
+101000001498,/Games/Computer & Video Games/Simulation Games/Life Simulation Games
+101000001499,/Games/Computer & Video Games/Sports Games/Sports Management Games
+101000001500,/Computers & Electronics/Software/Internet Software/Download Managers
+101000001501,/Food & Drink/Cooking & Recipes/Healthy Eating
+101000001502,/Health/Vision Care/Eye Exams & Optometry
+101000001503,/Health/Vision Care/Laser Vision Correction
+101000001504,/Shopping/Consumer Resources/Identity Theft & Protection
+101000001505,/Shopping/Discount & Outlet Stores
+101000001506,/Shopping/Gifts & Special Event Items/Custom & Personalized Items
+101000001507,/Shopping/Green & Eco-Friendly Shopping
+101000001508,/Sports/Team Sports/Australian Football
+101000001509,/Food & Drink/Beverages/Bottled Water
+101000001510,/Food & Drink/Beverages/Juice
+101000001511,/Food & Drink/Beverages/Soft Drinks
+101000001512,/Food & Drink/Food
+101000001513,/Food & Drink/Food/Breakfast Foods
+101000001514,/Food & Drink/Food/Dairy & Eggs
+101000001515,/Food & Drink/Food/Grains & Pasta
+101000001516,/Food & Drink/Food/Herbs & Spices
+101000001517,/Food & Drink/Food/Organic & Natural Foods
+101000001518,/Food & Drink/Food/Snack Foods
+101000001519,/Reference/Libraries & Museums/Museums
+101000001520,/Reference/Libraries & Museums/Libraries
+101000001521,/Arts & Entertainment/Visual Art & Design/Art Museums & Galleries
+101000001522,/Internet & Telecom/Email & Messaging/Spam & Email Filtering
+101000001523,/Food & Drink/Food & Grocery Delivery
+101000001524,/Food & Drink/Restaurants/Catering
+101000001525,/Food & Drink/Cooking & Recipes/BBQ & Grilling
+101000001526,/Food & Drink/Cooking & Recipes/Desserts
+101000001527,/Food & Drink/Beverages/Coffee & Tea/Coffee
+101000001528,/Food & Drink/Beverages/Coffee & Tea/Tea
+101000001529,/Food & Drink/Cooking & Recipes/Salads
+101000001530,/Arts & Entertainment/Events & Listings/Food & Beverage Events
+101000001531,/Arts & Entertainment/Events & Listings/Expos & Conventions
+101000001532,/Food & Drink/Cooking & Recipes/Cuisines/Middle Eastern Cuisine
+101000001533,/Computers & Electronics/Software/Operating Systems/Mobile OS/Apple iOS
+101000001534,/Computers & Electronics/Software/Operating Systems/Mobile OS/Android OS
+101000001535,/Computers & Electronics/Software/Operating Systems/Mobile OS/BlackBerry OS
+101000001536,/Computers & Electronics/Software/Operating Systems/Mobile OS/Symbian OS
+101000001537,/Computers & Electronics/Software/Operating Systems/Mobile OS/Windows Mobile OS
+101000001538,/Food & Drink/Food/Condiments & Dressings
+101000001539,/Food & Drink/Food/Cooking Fats & Oils
+101000001540,/Food & Drink/Food/Dairy & Eggs/Cheese
+101000001541,/Food & Drink/Food/Gourmet & Specialty Foods
+101000001542,"/Food & Drink/Food/Jams, Jellies & Preserves"
+101000001543,/Food & Drink/Food/Meat & Seafood/Beef
+101000001544,/Food & Drink/Food/Meat & Seafood/Fish & Seafood
+101000001545,/Food & Drink/Food/Meat & Seafood/Pork
+101000001546,/Food & Drink/Food/Meat & Seafood/Poultry
+101000001547,/Business & Industrial/Advertising & Marketing/Sales
+101000001548,/Business & Industrial/Advertising & Marketing/Brand Management
+101000001549,/Games/Tile Games
+101000001550,/Food & Drink/Restaurants/Pizzerias
+101000001551,/Food & Drink/Cooking & Recipes/Cuisines/East Asian Cuisine/Chinese Cuisine
+101000001552,/Food & Drink/Cooking & Recipes/Cuisines/East Asian Cuisine/Japanese Cuisine
+101000001553,/Food & Drink/Cooking & Recipes/Cuisines/South Asian Cuisine/Indian Cuisine
+101000001554,/Food & Drink/Cooking & Recipes/Cuisines/East Asian Cuisine/Korean Cuisine
+101000001555,/Food & Drink/Cooking & Recipes/Cuisines/Southeast Asian Cuisine/Thai Cuisine
+101000001556,/Food & Drink/Cooking & Recipes/Cuisines/French Cuisine
+101000001557,/Food & Drink/Cooking & Recipes/Cuisines/Mediterranean Cuisine/Italian Cuisine
+101000001558,/Food & Drink/Cooking & Recipes/Cuisines/Mediterranean Cuisine/Greek Cuisine
+101000001559,/Food & Drink/Cooking & Recipes/Cuisines/Mediterranean Cuisine/Spanish Cuisine
+101000001560,/Food & Drink/Cooking & Recipes/Cuisines/Latin American Cuisine/Mexican Cuisine
+101000001561,/Food & Drink/Restaurants/Fine Dining
+101000001562,/Food & Drink/Restaurants/Fast Food/Burgers
+101000001563,/Food & Drink/Cooking & Recipes/Cuisines/Eastern European Cuisine
+101000001564,/Food & Drink/Cooking & Recipes/Cuisines/German Cuisine
+101000001565,/Food & Drink/Cooking & Recipes/Cuisines/Latin American Cuisine/South American Cuisine
+101000001566,/Food & Drink/Cooking & Recipes/Cuisines/Latin American Cuisine/Caribbean Cuisine
+101000001567,/Food & Drink/Cooking & Recipes/Cuisines/South Asian Cuisine
+101000001568,/Food & Drink/Cooking & Recipes/Cuisines/Southeast Asian Cuisine
+101000001569,/Food & Drink/Cooking & Recipes/Cuisines/Southeast Asian Cuisine/Vietnamese Cuisine
+101000001570,/Health/Nutrition/Special & Restricted Diets/Low Carbohydrate Diets
+101000001571,/Health/Nutrition/Special & Restricted Diets/Low Fat & Low Cholesterol Diets
+101000001572,/Health/Nutrition/Special & Restricted Diets/Kosher Foods
+101000001573,/Food & Drink/Food & Grocery Retailers/Bakeries
+101000001574,/Food & Drink/Food & Grocery Retailers/Butchers
+101000001575,/Food & Drink/Food & Grocery Retailers/Convenience Stores
+101000001576,/Food & Drink/Food & Grocery Retailers/Delicatessens
+101000001577,/Food & Drink/Food & Grocery Retailers/Farmers' Markets
+101000001578,/Business & Industrial/Agriculture & Forestry/Farms & Ranches
+101000001579,/Jobs & Education/Education/Early Childhood Education/Preschool
+101000001580,/Shopping/Toys/Action Figures
+101000001581,/Shopping/Toys/Building Toys
+101000001582,/Shopping/Toys/Dolls & Accessories
+101000001583,/Shopping/Toys/Stuffed Toys
+101000001584,/People & Society/Family & Relationships/Family/Parenting/Babies & Toddlers/Baby Food & Formula
+101000001585,/People & Society/Family & Relationships/Family/Parenting/Babies & Toddlers/Baby & Toddler Toys
+101000001586,/Shopping/Toys/Ride-On Toys & Wagons
+101000001587,/Shopping/Toys/Die-cast & Toy Vehicles
+101000001588,/Shopping/Toys/Outdoor Toys & Play Equipment
+101000001589,/Shopping/Toys/Puppets
+101000001590,/Hobbies & Leisure/Radio Control & Modeling/Model Trains & Railroads
+101000001591,/Arts & Entertainment/Performing Arts/Circus
+101000001592,/Arts & Entertainment/Performing Arts/Magic
+101000001593,/Sports/Water Sports/Surfing
+101000001594,/Sports/Water Sports/Swimming
+101000001595,/Sports/Motor Sports/Auto Racing
+101000001596,/Sports/Motor Sports/Motorcycle Racing
+101000001597,/Shopping/Apparel/Formal Wear/Bridal Wear
+101000001598,/Shopping/Apparel/Suits & Business Attire
+101000001599,/Sports/Sport Scores & Statistics
+101000001600,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances/Dishwashers
+101000001601,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances/Microwaves
+101000001602,"/Home & Garden/Kitchen & Dining/Major Kitchen Appliances/Ranges, Cooktops & Ovens"
+101000001603,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances/Refrigerators & Freezers
+101000001604,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances/Kitchen Hoods & Vents
+101000001605,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances/Blenders
+101000001606,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances/Bread Makers
+101000001607,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances/Coffee & Espresso Makers
+101000001608,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances/Food Processors
+101000001609,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances/Toasters & Toaster Ovens
+101000001611,/Sports/Sporting Goods/American Football Equipment
+101000001612,/Sports/Sporting Goods/Baseball Equipment
+101000001613,/Sports/Sporting Goods/Basketball Equipment
+101000001614,/Sports/Sporting Goods/Soccer Equipment
+101000001615,/Sports/Sporting Goods/Bowling Equipment
+101000001616,/Sports/Sporting Goods/Combat Sports Equipment
+101000001617,/Sports/Sporting Goods/Cricket Equipment
+101000001618,/Sports/Sporting Goods/Equestrian Equipment & Tack
+101000001619,/Sports/Sporting Goods/Golf Equipment
+101000001620,/Sports/Sporting Goods/Gymnastics Equipment
+101000001621,/Sports/Sporting Goods/Hockey Equipment
+101000001622,/Sports/Sporting Goods/Ice Skating Equipment
+101000001623,/Sports/Sporting Goods/Roller Skating & Rollerblading Equipment
+101000001624,/Sports/Sporting Goods/Skateboarding Equipment
+101000001625,/Sports/Sporting Goods/Squash & Racquetball Equipment
+101000001626,/Sports/Sporting Goods/Water Sports Equipment
+101000001627,/Sports/Sporting Goods/Table Tennis Equipment
+101000001628,/Sports/Sporting Goods/Tennis Equipment
+101000001629,/Sports/Sporting Goods/Volleyball Equipment
+101000001630,/Sports/Sporting Goods/Winter Sports Equipment
+101000001631,/Shopping/Apparel/Women's Clothing/Skirts
+101000001632,/Shopping/Apparel/Women's Clothing/Dresses
+101000001633,/Sports/Sporting Goods/Combat Sports Equipment/Boxing Gloves & Gear
+101000001634,/Sports/Sporting Goods/Combat Sports Equipment/Martial Arts Equipment
+101000001635,/Sports/Sporting Goods/Winter Sports Equipment/Skiing Equipment
+101000001636,/Sports/Sporting Goods/Winter Sports Equipment/Snowboarding Gear
+101000005000,/World Localities
+101000005001,/World Localities/Africa
+101000005002,/World Localities/Africa/Eastern Africa
+101000005003,/World Localities/Africa/Eastern Africa/Ethiopia
+101000005004,/World Localities/Africa/Eastern Africa/Kenya
+101000005005,/World Localities/Africa/Eastern Africa/Kenya/Nairobi
+101000005006,/World Localities/Africa/Eastern Africa/Tanzania
+101000005007,/World Localities/Africa/Eastern Africa/Uganda
+101000005008,/World Localities/Africa/Eastern Africa/Zimbabwe
+101000005009,/World Localities/Africa/Eastern Africa/Zimbabwe/Harare
+101000005010,/World Localities/Africa/Middle Africa
+101000005011,/World Localities/Africa/Middle Africa/Congo (DR)
+101000005012,/World Localities/Africa/Middle Africa/Congo (DR)/Kinshasa
+101000005013,/World Localities/Africa/Northern Africa
+101000005014,/World Localities/Africa/Northern Africa/Algeria
+101000005015,/World Localities/Africa/Northern Africa/Egypt
+101000005016,/World Localities/Africa/Northern Africa/Egypt/Cairo
+101000005017,/World Localities/Africa/Northern Africa/Morocco
+101000005018,/World Localities/Africa/Northern Africa/Sudan
+101000005019,/World Localities/Africa/Northern Africa/Tunisia
+101000005020,/World Localities/Africa/Southern Africa
+101000005021,/World Localities/Africa/Southern Africa/South Africa
+101000005022,/World Localities/Africa/Southern Africa/South Africa/Cape Town
+101000005023,/World Localities/Africa/Southern Africa/South Africa/Johannesburg
+101000005024,/World Localities/Africa/Western Africa
+101000005025,/World Localities/Africa/Western Africa/Ghana
+101000005026,/World Localities/Africa/Western Africa/Nigeria
+101000005027,/World Localities/Africa/Western Africa/Nigeria/Lagos
+101000005028,/World Localities/Asia
+101000005029,/World Localities/Asia/Central Asia
+101000005030,/World Localities/Asia/Central Asia/Kazakhstan
+101000005031,/World Localities/Asia/Central Asia/Uzbekistan
+101000005032,/World Localities/Asia/East Asia
+101000005033,/World Localities/Asia/East Asia/China
+101000005034,/World Localities/Asia/East Asia/China/North Central China/Beijing
+101000005035,/World Localities/Asia/East Asia/China/Northeast China/Jilin/Changchun
+101000005036,/World Localities/Asia/East Asia/China/South Central China/Chongqing
+101000005037,/World Localities/Asia/East Asia/China/Southeast China/Guangdong/Dongguan
+101000005038,/World Localities/Asia/East Asia/China/Southeast China/Guangdong/Guangzhou
+101000005039,/World Localities/Asia/East Asia/China/Eastern China/Zhejiang/Hangzhou
+101000005040,/World Localities/Asia/East Asia/China/Eastern China/Shanghai
+101000005041,/World Localities/Asia/East Asia/China/Northeast China/Liaoning/Shenyang
+101000005042,/World Localities/Asia/East Asia/China/Southeast China/Guangdong/Shenzhen
+101000005043,/World Localities/Asia/East Asia/China/North Central China/Tianjin
+101000005044,/World Localities/Asia/East Asia/China/Southwest China/Tibet
+101000005045,/World Localities/Asia/East Asia/China/South Central China/Hubei/Wuhan
+101000005046,/World Localities/Asia/East Asia/China/Northwest China/Shaanxi/Xi'an
+101000005047,/World Localities/Asia/East Asia/Hong Kong
+101000005048,/World Localities/Asia/East Asia/Japan
+101000005049,/World Localities/Asia/East Asia/Japan/Chubu/Aichi/Nagoya
+101000005050,/World Localities/Asia/East Asia/Japan/Kansai/Osaka
+101000005051,/World Localities/Asia/East Asia/Japan/Hokkaido/Sapporo
+101000005052,/World Localities/Asia/East Asia/Japan/Kanto/Tokyo
+101000005053,/World Localities/Asia/East Asia/North Korea
+101000005054,/World Localities/Asia/East Asia/South Korea
+101000005055,/World Localities/Asia/East Asia/South Korea/North Gyeongsang/Daegu
+101000005057,/World Localities/Asia/East Asia/South Korea/Seoul
+101000005058,/World Localities/Asia/East Asia/Taiwan
+101000005059,/World Localities/Asia/East Asia/Taiwan/Taipei
+101000005060,/World Localities/Asia/Southeast Asia
+101000005061,/World Localities/Asia/Southeast Asia/Indonesia
+101000005062,/World Localities/Asia/Southeast Asia/Indonesia/Java (Indonesia)/Jakarta
+101000005063,/World Localities/Asia/Southeast Asia/Malaysia
+101000005064,/World Localities/Asia/Southeast Asia/Malaysia/Kuala Lumpur
+101000005065,/World Localities/Asia/Southeast Asia/Myanmar
+101000005066,/World Localities/Asia/Southeast Asia/Philippines
+101000005067,/World Localities/Asia/Southeast Asia/Philippines/Manila
+101000005068,/World Localities/Asia/Southeast Asia/Singapore
+101000005069,/World Localities/Asia/Southeast Asia/Thailand
+101000005070,/World Localities/Asia/Southeast Asia/Thailand/Bangkok
+101000005071,/World Localities/Asia/Southeast Asia/Viet Nam
+101000005072,/World Localities/Asia/Southeast Asia/Viet Nam/Hanoi
+101000005073,/World Localities/Asia/Southeast Asia/Viet Nam/Ho Chi Minh City
+101000005074,/World Localities/Asia/South Asia
+101000005075,/World Localities/Asia/South Asia/Afghanistan
+101000005076,/World Localities/Asia/South Asia/Bangladesh
+101000005077,/World Localities/Asia/South Asia/India
+101000005078,/World Localities/Asia/South Asia/India/South India/Karnataka/Bangalore
+101000005079,/World Localities/Asia/South Asia/India/South India/Tamil Nadu/Chennai
+101000005080,/World Localities/Asia/South Asia/India/North India/Delhi
+101000005081,/World Localities/Asia/South Asia/India/South India/Andhra Pradesh/Hyderabad
+101000005082,/World Localities/Asia/South Asia/India/East India/West Bengal/Kolkata
+101000005083,/World Localities/Asia/South Asia/India/West India/Maharashtra/Mumbai
+101000005084,/World Localities/Asia/West Asia/Iran
+101000005085,/World Localities/Asia/South Asia/Nepal
+101000005086,/World Localities/Asia/South Asia/Pakistan
+101000005087,/World Localities/Asia/South Asia/Pakistan/Karachi
+101000005088,/World Localities/Asia/South Asia/Pakistan/Lahore
+101000005089,/World Localities/Asia/South Asia/Sri Lanka
+101000005090,/World Localities/Asia/West Asia
+101000005091,/World Localities/Europe/Mediterranean Europe/Cyprus
+101000005092,/World Localities/Asia/West Asia/Iraq
+101000005093,/World Localities/Asia/West Asia/Israel
+101000005094,/World Localities/Asia/West Asia/Israel/Jerusalem
+101000005095,/World Localities/Asia/West Asia/Israel/Tel Aviv
+101000005096,/World Localities/Asia/West Asia/Jordan
+101000005097,/World Localities/Asia/West Asia/Lebanon
+101000005098,/World Localities/Asia/West Asia/Saudi Arabia
+101000005099,/World Localities/Asia/West Asia/Syria
+101000005100,/World Localities/Asia/West Asia/Turkey
+101000005101,/World Localities/Asia/West Asia/Turkey/Central Anatolia/Ankara
+101000005102,/World Localities/Asia/West Asia/Turkey/Marmara Region/Istanbul
+101000005103,/World Localities/Asia/West Asia/United Arab Emirates
+101000005104,/World Localities/Europe
+101000005105,/World Localities/Europe/Central & Eastern Europe/Eastern Europe
+101000005106,/World Localities/Europe/Central & Eastern Europe/Eastern Europe/Belarus
+101000005107,/World Localities/Europe/Southeastern Europe/Bulgaria
+101000005108,/World Localities/Europe/Central & Eastern Europe/Czech Republic
+101000005109,/World Localities/Europe/Central & Eastern Europe/Czech Republic/Prague
+101000005110,/World Localities/Europe/Central & Eastern Europe/Hungary
+101000005111,/World Localities/Europe/Central & Eastern Europe/Hungary/Budapest
+101000005112,/World Localities/Europe/Central & Eastern Europe/Poland
+101000005113,/World Localities/Europe/Central & Eastern Europe/Poland/Katowice (Upper Silesian)
+101000005114,/World Localities/Europe/Central & Eastern Europe/Poland/Krakow
+101000005115,/World Localities/Europe/Central & Eastern Europe/Poland/Warsaw
+101000005116,/World Localities/Europe/Central & Eastern Europe/Poland/Wroclaw
+101000005117,/World Localities/Europe/Central & Eastern Europe/Poland/?od?
+101000005118,/World Localities/Europe/Southeastern Europe/Romania
+101000005119,/World Localities/Europe/Southeastern Europe/Romania/Bucharest
+101000005120,/World Localities/Asia/Russia & CIS/Russian Federation
+101000005121,/World Localities/Asia/Russia & CIS/Russian Federation/Russian Central District/Moscow
+101000005122,/World Localities/Asia/Russia & CIS/Russian Federation/Northwestern Russia/Saint Petersburg
+101000005123,/World Localities/Europe/Central & Eastern Europe/Slovakia
+101000005124,/World Localities/Europe/Central & Eastern Europe/Eastern Europe/Ukraine
+101000005125,/World Localities/Europe/Nordic Countries
+101000005126,/World Localities/Europe/Nordic Countries/Denmark
+101000005127,/World Localities/Europe/Nordic Countries/Denmark/Copenhagen
+101000005128,/World Localities/Europe/Central & Eastern Europe/Baltics/Estonia
+101000005129,/World Localities/Europe/Nordic Countries/Finland
+101000005130,/World Localities/Europe/Nordic Countries/Finland/Helsinki
+101000005131,/World Localities/Europe/Nordic Countries/Iceland
+101000005132,/World Localities/Europe/Western Europe/Ireland
+101000005133,/World Localities/Europe/Western Europe/Ireland/Dublin
+101000005134,/World Localities/Europe/Central & Eastern Europe/Baltics/Latvia
+101000005135,/World Localities/Europe/Central & Eastern Europe/Baltics/Lithuania
+101000005136,/World Localities/Europe/Nordic Countries/Norway
+101000005137,/World Localities/Europe/Nordic Countries/Norway/Oslo
+101000005138,/World Localities/Europe/Nordic Countries/Sweden
+101000005139,/World Localities/Europe/Nordic Countries/Sweden/Stockholm
+101000005140,/World Localities/Europe/Western Europe/United Kingdom
+101000005141,/World Localities/Europe/Western Europe/United Kingdom/England/West Midlands/Birmingham (UK)
+101000005142,/World Localities/Europe/Western Europe/United Kingdom/England/South West England/Bristol
+101000005143,/World Localities/Europe/Western Europe/United Kingdom/Scotland/Edinburgh
+101000005144,/World Localities/Europe/Western Europe/United Kingdom/Scotland/Glasgow
+101000005145,/World Localities/Europe/Western Europe/United Kingdom/England/Yorkshire/Leeds-Bradford
+101000005146,/World Localities/Europe/Western Europe/United Kingdom/England/North West England/Liverpool
+101000005147,/World Localities/Europe/Western Europe/United Kingdom/England/London (UK)
+101000005148,/World Localities/Europe/Western Europe/United Kingdom/England/North West England/Manchester
+101000005149,/World Localities/Europe/Western Europe/United Kingdom/England/Yorkshire/Sheffield
+101000005150,/World Localities/Europe/Mediterranean Europe
+101000005151,/World Localities/Europe/Southeastern Europe/Bosnia and Herzegovina
+101000005152,/World Localities/Europe/Southeastern Europe/Croatia
+101000005153,/World Localities/Europe/Southeastern Europe/Greece
+101000005154,/World Localities/Europe/Southeastern Europe/Greece/Athens
+101000005155,/World Localities/Europe/Mediterranean Europe/Italy
+101000005156,/World Localities/Europe/Mediterranean Europe/Italy/Puglia/Bari
+101000005157,/World Localities/Europe/Mediterranean Europe/Italy/Tuscany/Florence
+101000005158,/World Localities/Europe/Mediterranean Europe/Italy/Liguria/Genoa
+101000005159,/World Localities/Europe/Mediterranean Europe/Italy/Lombardy/Milan
+101000005160,/World Localities/Europe/Mediterranean Europe/Italy/Campania/Naples
+101000005161,/World Localities/Europe/Mediterranean Europe/Italy/Sicily/Palermo
+101000005162,/World Localities/Europe/Mediterranean Europe/Italy/Lazio/Rome
+101000005163,/World Localities/Europe/Mediterranean Europe/Italy/Sicily
+101000005164,/World Localities/Europe/Mediterranean Europe/Italy/Piedmont/Turin
+101000005165,/World Localities/Europe/Mediterranean Europe/Italy/Veneto/Venice
+101000005166,/World Localities/Europe/Mediterranean Europe/Malta
+101000005167,/World Localities/Europe/Mediterranean Europe/Portugal
+101000005168,/World Localities/Europe/Mediterranean Europe/Portugal/Lisbon
+101000005169,/World Localities/Europe/Southeastern Europe/Serbia
+101000005170,/World Localities/Europe/Central & Eastern Europe/Slovenia
+101000005171,/World Localities/Europe/Mediterranean Europe/Spain
+101000005172,/World Localities/Europe/Mediterranean Europe/Spain/Catalonia/Barcelona
+101000005173,/World Localities/Europe/Mediterranean Europe/Spain/Madrid
+101000005174,/World Localities/Europe/Mediterranean Europe/Spain/Andalucia/Malaga
+101000005175,/World Localities/Europe/Mediterranean Europe/Spain/Andalucia/Seville
+101000005176,/World Localities/Europe/Mediterranean Europe/Spain/Valencian Community/Valencia
+101000005177,/World Localities/Europe/Western Europe
+101000005178,/World Localities/Europe/Central & Eastern Europe/Austria
+101000005179,/World Localities/Europe/Central & Eastern Europe/Austria/Vienna
+101000005180,/World Localities/Europe/Western Europe/Benelux/Belgium
+101000005181,/World Localities/Europe/Western Europe/Benelux/Belgium/Brussels
+101000005182,/World Localities/Europe/Western Europe/France
+101000005183,/World Localities/Europe/Western Europe/France/South East France/Rhone-Alpes/Lyon
+101000005184,/World Localities/Europe/Western Europe/France/South East France/Provence-Alpes-Cote d'Azur/Marseille
+101000005185,/World Localities/Europe/Western Europe/France/South East France/Provence-Alpes-Cote d'Azur/Nice
+101000005186,/World Localities/Europe/Western Europe/France/Ile-de-France/Paris
+101000005187,/World Localities/Europe/Western Europe/France/South West France/Midi-Pyrenees/Toulouse
+101000005188,/World Localities/Europe/Central & Eastern Europe/Germany
+101000005189,/World Localities/Europe/Central & Eastern Europe/Germany/Berlin
+101000005190,/World Localities/Europe/Central & Eastern Europe/Germany/North Rhine-Westphalia/Cologne
+101000005191,/World Localities/Europe/Central & Eastern Europe/Germany/North Rhine-Westphalia/Duesseldorf
+101000005192,/World Localities/Europe/Central & Eastern Europe/Germany/North Rhine-Westphalia/Essen (Ruhr Area)
+101000005193,/World Localities/Europe/Central & Eastern Europe/Germany/Hesse/Frankfurt
+101000005194,/World Localities/Europe/Central & Eastern Europe/Germany/Hamburg
+101000005195,/World Localities/Europe/Central & Eastern Europe/Germany/Bavaria/Munich
+101000005196,/World Localities/Europe/Western Europe/Benelux/Luxembourg
+101000005197,/World Localities/Europe/Western Europe/Benelux/Netherlands
+101000005198,/World Localities/Europe/Western Europe/Benelux/Netherlands/Amsterdam
+101000005199,/World Localities/Europe/Western Europe/Benelux/Netherlands/Rotterdam
+101000005200,/World Localities/Europe/Central & Eastern Europe/Switzerland
+101000005201,/World Localities/Europe/Central & Eastern Europe/Switzerland/Geneva
+101000005202,/World Localities/Europe/Central & Eastern Europe/Switzerland/Zurich
+101000005203,/World Localities/Latin America
+101000005204,/World Localities/Latin America/Caribbean
+101000005205,/World Localities/Latin America/Caribbean/Cuba
+101000005206,/World Localities/Latin America/Caribbean/Dominican Republic
+101000005207,/World Localities/Latin America/Caribbean/Puerto Rico
+101000005208,/World Localities/Latin America/Central America
+101000005209,/World Localities/Latin America/Central America/Costa Rica
+101000005210,/World Localities/Latin America/Central America/Mexico
+101000005211,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Jalisco/Guadalajara
+101000005212,/World Localities/Latin America/Central America/Mexico/Central Mexico/Mexico City
+101000005213,/World Localities/Latin America/Central America/Mexico/Northern Mexico/Nuevo Leon/Monterrey
+101000005214,/World Localities/Latin America/Central America/Mexico/Baja California/Tijuana
+101000005215,/World Localities/Latin America/Central America/Panama
+101000005216,/World Localities/Latin America/South America
+101000005217,/World Localities/Latin America/South America/Argentina
+101000005218,/World Localities/Latin America/South America/Argentina/Buenos Aires
+101000005219,/World Localities/Latin America/South America/Brazil
+101000005220,/World Localities/Latin America/South America/Brazil/Southeast Brazil/Minas Gerais/Belo Horizonte
+101000005221,/World Localities/Latin America/South America/Brazil/Central West Brazil/Brasilia
+101000005222,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Ceara/Fortaleza
+101000005223,/World Localities/Latin America/South America/Brazil/South Brazil/Rio Grande do Sul/Porto Alegre
+101000005224,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Pernambuco/Recife
+101000005225,/World Localities/Latin America/South America/Brazil/Southeast Brazil/Rio de Janeiro
+101000005226,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Bahia/Salvador
+101000005227,/World Localities/Latin America/South America/Brazil/Southeast Brazil/Sao Paulo
+101000005228,/World Localities/Latin America/South America/Chile
+101000005229,/World Localities/Latin America/South America/Chile/Santiago
+101000005230,/World Localities/Latin America/South America/Colombia
+101000005231,/World Localities/Latin America/South America/Colombia/Bogota
+101000005232,/World Localities/Latin America/South America/Peru
+101000005233,/World Localities/Latin America/South America/Peru/Lima
+101000005234,/World Localities/Latin America/South America/Uruguay
+101000005235,/World Localities/Latin America/South America/Venezuela
+101000005236,/World Localities/Latin America/South America/Venezuela/Caracas
+101000005237,/World Localities/North America
+101000005238,/World Localities/North America/Canada
+101000005239,/World Localities/North America/Canada/Atlantic Provinces
+101000005240,/World Localities/North America/Canada/Atlantic Provinces/Nova Scotia/Halifax
+101000005241,/World Localities/North America/Canada/British Columbia
+101000005242,/World Localities/North America/Canada/British Columbia/Vancouver
+101000005243,/World Localities/North America/Canada/British Columbia/Victoria (BC)
+101000005244,/World Localities/North America/Canada/Canadian Prairies
+101000005245,/World Localities/North America/Canada/Canadian Prairies/Alberta/Calgary
+101000005246,/World Localities/North America/Canada/Canadian Prairies/Alberta/Edmonton
+101000005247,/World Localities/North America/Canada/Canadian Prairies/Manitoba/Winnipeg
+101000005248,/World Localities/North America/Canada/Northern Territories
+101000005249,/World Localities/North America/Canada/Ontario
+101000005250,/World Localities/North America/Canada/Ontario/Hamilton-Niagara Peninsula
+101000005251,/World Localities/North America/Canada/Ontario/Southwestern Ontario
+101000005252,/World Localities/North America/Canada/Ontario/Ottawa-Gatineau
+101000005253,/World Localities/North America/Canada/Ontario/Greater Toronto
+101000005254,/World Localities/North America/Canada/Quebec
+101000005255,/World Localities/North America/Canada/Quebec/Montreal
+101000005256,/World Localities/North America/Canada/Quebec/Quebec City
+101000005257,/World Localities/North America/USA
+101000005258,/World Localities/North America/USA/Alaska
+101000005259,/World Localities/North America/USA/California
+101000005260,/World Localities/North America/USA/California/San Joaquin Valley
+101000005261,/World Localities/North America/USA/California/Southern California/Los Angeles
+101000005262,/World Localities/North America/USA/California/Southern California/Inland Empire
+101000005263,/World Localities/North America/USA/California/Sacramento Valley
+101000005264,/World Localities/North America/USA/California/Southern California/San Diego
+101000005265,/World Localities/North America/USA/California/San Francisco Bay Area
+101000005266,/World Localities/North America/USA/California/Silicon Valley
+101000005267,/World Localities/North America/USA/Florida
+101000005268,/World Localities/North America/USA/Florida/North Florida/Jacksonville
+101000005269,/World Localities/North America/USA/Florida/Southern Florida/South Florida Metro/Miami-Dade
+101000005270,/World Localities/North America/USA/Florida/Central Florida/Greater Orlando
+101000005271,/World Localities/North America/USA/Florida/Central Florida/Tampa Bay Area
+101000005272,/World Localities/North America/USA/Florida/Southern Florida/South Florida Metro/West Palm Beach-Boca Raton
+101000005273,/World Localities/North America/USA/Great Plains (USA)
+101000005274,/World Localities/North America/USA/Great Plains (USA)/Oklahoma/Oklahoma City
+101000005275,/World Localities/North America/USA/Great Plains (USA)/Oklahoma/Tulsa
+101000005276,/World Localities/North America/USA/Hawaii
+101000005277,/World Localities/North America/USA/Mid-Atlantic (USA)
+101000005278,/World Localities/North America/USA/Mid-Atlantic (USA)/New York State/Albany-Capital District
+101000005279,/World Localities/North America/USA/Mid-Atlantic (USA)/Maryland/Baltimore Metro
+101000005280,/World Localities/North America/USA/Mid-Atlantic (USA)/New York State/Buffalo-Niagara Falls
+101000005281,/World Localities/North America/USA/Mid-Atlantic (USA)/Pennsylvania/Harrisburg-South Central PA
+101000005282,/World Localities/North America/USA/Mid-Atlantic (USA)/New York State/New York City
+101000005283,/World Localities/North America/USA/Mid-Atlantic (USA)/Pennsylvania/Philadelphia
+101000005284,/World Localities/North America/USA/Mid-Atlantic (USA)/Pennsylvania/Pittsburgh
+101000005285,/World Localities/North America/USA/Mid-Atlantic (USA)/New York State/Rochester-Finger Lakes
+101000005286,/World Localities/North America/USA/Mid-Atlantic (USA)/Washington DC
+101000005287,/World Localities/North America/USA/Midwest (USA)
+101000005288,/World Localities/North America/USA/Midwest (USA)/Illinois/Chicago
+101000005289,/World Localities/North America/USA/Midwest (USA)/Ohio/Cincinnati
+101000005290,/World Localities/North America/USA/Midwest (USA)/Ohio/Greater Cleveland
+101000005291,/World Localities/North America/USA/Midwest (USA)/Ohio/Columbus (OH)
+101000005292,/World Localities/North America/USA/Midwest (USA)/Michigan/Detroit
+101000005293,/World Localities/North America/USA/Midwest (USA)/Michigan/Grand Rapids-West Michigan
+101000005294,/World Localities/North America/USA/Midwest (USA)/Indiana/Indianapolis
+101000005295,/World Localities/North America/USA/Midwest (USA)/Missouri/Kansas City
+101000005296,/World Localities/North America/USA/Midwest (USA)/Wisconsin/Milwaukee
+101000005297,/World Localities/North America/USA/Midwest (USA)/Minnesota/Minneapolis-Saint Paul
+101000005298,/World Localities/North America/USA/Midwest (USA)/Missouri/Greater St. Louis
+101000005299,/World Localities/North America/USA/New England
+101000005300,/World Localities/North America/USA/New England/Massachusetts/Boston Metro
+101000005301,/World Localities/North America/USA/New England/Connecticut/Greater Hartford
+101000005302,/World Localities/North America/USA/New England/Rhode Island/Providence
+101000005303,/World Localities/North America/USA/Pacific Northwest
+101000005304,/World Localities/North America/USA/Pacific Northwest/Oregon/Portland (OR)
+101000005305,/World Localities/North America/USA/Pacific Northwest/Washington State/Seattle-Tacoma
+101000005306,/World Localities/North America/USA/Rocky Mountains
+101000005307,/World Localities/North America/USA/Rocky Mountains/Colorado/Denver
+101000005308,/World Localities/North America/USA/South (USA)
+101000005309,/World Localities/North America/USA/South (USA)/Georgia (USA)/Atlanta
+101000005310,/World Localities/North America/USA/South (USA)/Louisiana/Baton Rouge
+101000005311,/World Localities/North America/USA/South (USA)/Alabama/Birmingham (AL)
+101000005312,/World Localities/North America/USA/South (USA)/North Carolina/Charlotte Metro
+101000005313,/World Localities/North America/USA/South (USA)/North Carolina/Piedmont Triad
+101000005314,/World Localities/North America/USA/South (USA)/South Carolina/Upstate South Carolina
+101000005315,/World Localities/North America/USA/South (USA)/Kentucky/Louisville
+101000005316,/World Localities/North America/USA/South (USA)/Tennessee/Memphis
+101000005317,/World Localities/North America/USA/South (USA)/Tennessee/Nashville
+101000005318,/World Localities/North America/USA/South (USA)/Louisiana/New Orleans
+101000005319,/World Localities/North America/USA/South (USA)/Virginia/Virginia Beach-Hampton Roads
+101000005320,/World Localities/North America/USA/South (USA)/North Carolina/Raleigh-Durham
+101000005321,/World Localities/North America/USA/South (USA)/Virginia/Richmond-Petersburg
+101000005322,/World Localities/North America/USA/Southwest (USA)
+101000005323,/World Localities/North America/USA/Southwest (USA)/New Mexico/Albuquerque-Santa Fe
+101000005324,/World Localities/North America/USA/Southwest (USA)/Nevada/Las Vegas
+101000005325,/World Localities/North America/USA/Southwest (USA)/Arizona/Phoenix
+101000005326,/World Localities/North America/USA/Southwest (USA)/Nevada/Reno-Sparks
+101000005327,/World Localities/North America/USA/Southwest (USA)/Utah/Salt Lake City
+101000005328,/World Localities/North America/USA/Southwest (USA)/Arizona/Tucson
+101000005329,/World Localities/North America/USA/Texas
+101000005330,/World Localities/North America/USA/Texas/Austin-Round Rock
+101000005331,/World Localities/North America/USA/Texas/Dallas-Fort Worth
+101000005332,/World Localities/North America/USA/Texas/El Paso
+101000005333,/World Localities/North America/USA/Texas/Houston
+101000005334,/World Localities/North America/USA/Texas/San Antonio
+101000005335,/World Localities/Oceania
+101000005336,/World Localities/Oceania/Australia
+101000005337,/World Localities/Oceania/Australia/South Australia/Adelaide
+101000005338,/World Localities/Oceania/Australia/Queensland/Brisbane
+101000005339,/World Localities/Oceania/Australia/New South Wales/Canberra
+101000005340,/World Localities/Oceania/Australia/Queensland/Gold Coast
+101000005341,/World Localities/Oceania/Australia/Victoria (AU)/Melbourne
+101000005342,/World Localities/Oceania/Australia/New South Wales/Newcastle (AU)
+101000005343,/World Localities/Oceania/Australia/Western Australia/Perth
+101000005344,/World Localities/Oceania/Australia/New South Wales/Sydney
+101000005345,/World Localities/Oceania/Pacific Islands/Melanesia
+101000005346,/World Localities/Oceania/Pacific Islands/Melanesia/Fiji
+101000005347,/World Localities/Oceania/Pacific Islands/Melanesia/Papua New Guinea
+101000005348,/World Localities/Oceania/Pacific Islands/Micronesia
+101000005349,/World Localities/Oceania/Pacific Islands/Micronesia/Guam
+101000005350,/World Localities/Oceania/New Zealand
+101000005351,/World Localities/Oceania/New Zealand/Auckland
+101000005352,/World Localities/Oceania/Pacific Islands/Polynesia
+101000005353,/World Localities/Polar Regions
+101000005354,/World Localities/North America/Bermuda
+101000005355,/World Localities/Asia/East Asia/Macau
+101000005356,/World Localities/Oceania/Australia/Tasmania
+101000005357,/World Localities/Oceania/Australia/Queensland/Cairns
+101000005358,/World Localities/Oceania/New Zealand/Wellington
+101000005359,/World Localities/Oceania/New Zealand/Christchurch
+101000005360,/World Localities/Latin America/Caribbean/Bahamas
+101000005361,/World Localities/Asia/Southeast Asia/Indonesia/Nusa Tenggara/Bali
+101000005362,/World Localities/Asia/Southeast Asia/Thailand/Southern Thailand/Phuket
+101000005363,/World Localities/Asia/East Asia/China/Northeast China
+101000005364,/World Localities/Asia/East Asia/China/Eastern China
+101000005365,/World Localities/Asia/East Asia/China/Southeast China
+101000005366,/World Localities/Asia/East Asia/China/South Central China
+101000005367,/World Localities/Asia/East Asia/China/North Central China
+101000005368,/World Localities/Asia/East Asia/China/Northwest China
+101000005369,/World Localities/Asia/East Asia/China/Southwest China
+101000005370,/World Localities/Asia/East Asia/South Korea/Gyeonggi/Incheon
+101000005371,/World Localities/Asia/East Asia/South Korea/Jeju
+101000005372,/World Localities/Asia/East Asia/South Korea/South Gyeongsang/Busan
+101000005373,/World Localities/Asia/East Asia/South Korea/South Jeolla/Gwangju
+101000005374,/World Localities/Asia/East Asia/South Korea/South Chungcheong/Daejeon
+101000005375,/World Localities/Asia/East Asia/South Korea/Gyeonggi
+101000005376,/World Localities/Asia/East Asia/South Korea/South Gyeongsang/Ulsan
+101000005377,/World Localities/Asia/East Asia/Japan/Kanto
+101000005378,/World Localities/Asia/East Asia/Japan/Tohoku
+101000005379,/World Localities/Asia/East Asia/Japan/Okinawa
+101000005380,/World Localities/Asia/East Asia/Japan/Kyushu
+101000005381,/World Localities/Asia/East Asia/Japan/Hokkaido
+101000005382,/World Localities/Asia/East Asia/Japan/Chubu
+101000005383,/World Localities/Asia/East Asia/Japan/Kansai
+101000005384,/World Localities/Asia/East Asia/Japan/Shikoku
+101000005385,/World Localities/Asia/East Asia/Japan/Chugoku
+101000005386,/World Localities/Asia/East Asia/Taiwan/Kaohsiung
+101000005387,/World Localities/Asia/East Asia/Taiwan/Tainan
+101000005388,/World Localities/Asia/East Asia/Taiwan/Taichung
+101000005389,/World Localities/Asia/East Asia/Taiwan/Hsinchu
+101000005390,/World Localities/Asia/East Asia/China/Northeast China/Liaoning
+101000005391,/World Localities/Asia/East Asia/China/Northeast China/Heilongjiang
+101000005392,/World Localities/Asia/East Asia/China/Eastern China/Jiangsu
+101000005393,/World Localities/Asia/East Asia/China/Eastern China/Zhejiang
+101000005394,/World Localities/Asia/East Asia/China/Southeast China/Fujian
+101000005395,/World Localities/Asia/East Asia/China/Southeast China/Guangdong
+101000005396,/World Localities/Asia/East Asia/China/South Central China/Sichuan
+101000005397,/World Localities/Asia/East Asia/China/South Central China/Hubei
+101000005398,/World Localities/Asia/East Asia/China/South Central China/Hunan
+101000005399,/World Localities/Asia/East Asia/China/North Central China/Henan
+101000005400,/World Localities/Asia/East Asia/China/North Central China/Shandong
+101000005401,/World Localities/Asia/East Asia/China/North Central China/Hebei
+101000005402,/World Localities/Asia/East Asia/China/Northwest China/Shaanxi
+101000005403,/World Localities/Asia/East Asia/China/Northwest China/Xinjiang
+101000005404,/World Localities/Asia/East Asia/Japan/Kanto/Kanagawa/Yokohama
+101000005405,/World Localities/Asia/East Asia/Japan/Kyushu/Fukuoka
+101000005406,/World Localities/Asia/East Asia/Japan/Kansai/Hyogo/Kobe
+101000005407,/World Localities/Asia/East Asia/Japan/Kansai/Kyoto
+101000005408,/World Localities/Asia/Russia & CIS/Caucasus
+101000005409,/World Localities/North America/USA/Mid-Atlantic (USA)/New York State
+101000005410,/World Localities/North America/USA/Mid-Atlantic (USA)/Pennsylvania
+101000005411,/World Localities/North America/USA/Mid-Atlantic (USA)/New Jersey
+101000005412,/World Localities/North America/USA/Midwest (USA)/Ohio
+101000005413,/World Localities/North America/USA/Midwest (USA)/Michigan
+101000005414,/World Localities/North America/USA/Midwest (USA)/Missouri
+101000005415,/World Localities/North America/USA/South (USA)/Virginia
+101000005416,/World Localities/North America/USA/South (USA)/North Carolina
+101000005417,/World Localities/North America/USA/South (USA)/Louisiana
+101000005418,/World Localities/North America/USA/South (USA)/South Carolina
+101000005419,/World Localities/North America/USA/South (USA)/Tennessee
+101000005420,/World Localities/North America/USA/South (USA)/Georgia (USA)
+101000005421,/World Localities/North America/USA/South (USA)/Kentucky
+101000005422,/World Localities/North America/USA/South (USA)/Alabama
+101000005423,/World Localities/North America/USA/New England/Connecticut
+101000005424,/World Localities/North America/USA/New England/Massachusetts
+101000005425,/World Localities/North America/USA/New England/Rhode Island
+101000005426,/World Localities/North America/USA/Great Plains (USA)/Oklahoma
+101000005427,/World Localities/North America/USA/Mid-Atlantic (USA)/Maryland
+101000005428,/World Localities/North America/USA/Midwest (USA)/Illinois
+101000005429,/World Localities/North America/USA/Midwest (USA)/Indiana
+101000005430,/World Localities/North America/USA/Midwest (USA)/Wisconsin
+101000005431,/World Localities/North America/USA/Midwest (USA)/Minnesota
+101000005432,/World Localities/North America/USA/Pacific Northwest/Washington State
+101000005433,/World Localities/North America/USA/Pacific Northwest/Oregon
+101000005434,/World Localities/North America/USA/Rocky Mountains/Colorado
+101000005435,/World Localities/North America/USA/Southwest (USA)/Arizona
+101000005436,/World Localities/North America/USA/Southwest (USA)/Nevada
+101000005437,/World Localities/North America/USA/Southwest (USA)/Utah
+101000005438,/World Localities/North America/USA/Southwest (USA)/New Mexico
+101000005439,/World Localities/Latin America/Caribbean/Jamaica
+101000005440,/World Localities/Europe/Western Europe/United Kingdom/England
+101000005441,/World Localities/Europe/Western Europe/United Kingdom/Scotland
+101000005442,/World Localities/Europe/Western Europe/United Kingdom/Wales
+101000005443,/World Localities/Europe/Western Europe/United Kingdom/Northern Ireland
+101000005444,/World Localities/Europe/Western Europe/United Kingdom/England/South East England
+101000005445,/World Localities/Europe/Western Europe/United Kingdom/England/South West England
+101000005446,/World Localities/Europe/Western Europe/United Kingdom/England/East of England
+101000005447,/World Localities/Europe/Western Europe/United Kingdom/England/East Midlands
+101000005448,/World Localities/Europe/Western Europe/United Kingdom/England/West Midlands
+101000005449,/World Localities/Europe/Western Europe/United Kingdom/England/Yorkshire
+101000005450,/World Localities/Europe/Western Europe/United Kingdom/England/North West England
+101000005451,/World Localities/Europe/Western Europe/United Kingdom/England/North East England
+101000005452,/World Localities/Oceania/Australia/New South Wales
+101000005453,/World Localities/Oceania/Australia/Queensland
+101000005454,/World Localities/Oceania/Australia/Victoria (AU)
+101000005455,/World Localities/Oceania/Australia/Western Australia
+101000005456,/World Localities/Oceania/Australia/South Australia
+101000005457,/World Localities/Oceania/Australia/Northern Territory
+101000005458,/World Localities/North America/USA/Midwest (USA)/Iowa
+101000005459,/World Localities/North America/USA/New England/Maine
+101000005460,/World Localities/North America/USA/New England/Vermont
+101000005461,/World Localities/North America/USA/New England/New Hampshire
+101000005462,/World Localities/North America/USA/Great Plains (USA)/Kansas
+101000005463,/World Localities/North America/USA/Mid-Atlantic (USA)/Delaware
+101000005464,/World Localities/North America/USA/Rocky Mountains/Wyoming
+101000005465,/World Localities/North America/USA/Rocky Mountains/Montana
+101000005466,/World Localities/North America/USA/Rocky Mountains/Idaho
+101000005467,/World Localities/North America/USA/South (USA)/Arkansas
+101000005468,/World Localities/North America/USA/South (USA)/West Virginia
+101000005469,/World Localities/North America/USA/South (USA)/Mississippi
+101000005470,/World Localities/North America/USA/Great Plains (USA)/Nebraska
+101000005471,/World Localities/North America/USA/Great Plains (USA)/North Dakota
+101000005472,/World Localities/North America/USA/Great Plains (USA)/South Dakota
+101000005473,/World Localities/Africa/Eastern Africa/Rwanda
+101000005474,/World Localities/North America/USA/California/Lake Tahoe
+101000005475,/World Localities/North America/USA/California/Southern California/Orange County (CA)
+101000005476,/World Localities/Europe/Mediterranean Europe/Spain/Andalucia
+101000005477,/World Localities/Europe/Mediterranean Europe/Spain/Catalonia
+101000005478,/World Localities/Europe/Mediterranean Europe/Spain/Valencian Community
+101000005479,/World Localities/Europe/Mediterranean Europe/Spain/Galicia
+101000005480,/World Localities/Europe/Mediterranean Europe/Spain/Castile and Leon
+101000005481,/World Localities/Europe/Mediterranean Europe/Spain/Basque Country
+101000005482,/World Localities/Europe/Mediterranean Europe/Spain/Canary Islands
+101000005483,/World Localities/Europe/Mediterranean Europe/Spain/Castile-La Mancha
+101000005484,/World Localities/Europe/Mediterranean Europe/Spain/Murcia
+101000005485,/World Localities/Europe/Mediterranean Europe/Spain/Aragon
+101000005486,/World Localities/Europe/Mediterranean Europe/Spain/Extremadura
+101000005487,/World Localities/Europe/Mediterranean Europe/Spain/Asturias
+101000005488,/World Localities/Europe/Mediterranean Europe/Spain/Balearic Islands
+101000005489,/World Localities/Europe/Central & Eastern Europe/Germany/North Rhine-Westphalia
+101000005490,/World Localities/Europe/Central & Eastern Europe/Germany/Baden-Wuerttemberg
+101000005491,/World Localities/Europe/Central & Eastern Europe/Germany/Bavaria
+101000005492,/World Localities/Europe/Central & Eastern Europe/Germany/Lower Saxony
+101000005493,/World Localities/Europe/Central & Eastern Europe/Germany/Hesse
+101000005494,/World Localities/Europe/Central & Eastern Europe/Germany/Brandenburg
+101000005495,/World Localities/Europe/Central & Eastern Europe/Germany/Bremen
+101000005496,/World Localities/Europe/Central & Eastern Europe/Germany/Mecklenburg-Vorpommern
+101000005497,/World Localities/Europe/Central & Eastern Europe/Germany/Rhineland-Palatinate
+101000005498,/World Localities/Europe/Central & Eastern Europe/Germany/Saarland
+101000005499,/World Localities/Europe/Central & Eastern Europe/Germany/Saxony
+101000005500,/World Localities/Europe/Central & Eastern Europe/Germany/Saxony-Anhalt
+101000005501,/World Localities/Europe/Central & Eastern Europe/Germany/Schleswig-Holstein
+101000005502,/World Localities/Europe/Central & Eastern Europe/Germany/Thuringia
+101000005503,/World Localities/Europe/Mediterranean Europe/Italy/Lombardy
+101000005504,/World Localities/Europe/Mediterranean Europe/Italy/Campania
+101000005505,/World Localities/Europe/Mediterranean Europe/Italy/Lazio
+101000005506,/World Localities/Europe/Mediterranean Europe/Italy/Veneto
+101000005507,/World Localities/Europe/Mediterranean Europe/Italy/Piedmont
+101000005508,/World Localities/Europe/Mediterranean Europe/Italy/Emilia-Romagna
+101000005509,/World Localities/Europe/Mediterranean Europe/Italy/Puglia
+101000005510,/World Localities/Europe/Mediterranean Europe/Italy/Tuscany
+101000005511,/World Localities/Europe/Mediterranean Europe/Italy/Liguria
+101000005512,/World Localities/Europe/Mediterranean Europe/Italy/Sardinia
+101000005513,/World Localities/Europe/Mediterranean Europe/Italy/Calabria
+101000005514,/World Localities/Asia/South Asia/India/Northeast India
+101000005515,/World Localities/Asia/South Asia/India/East India
+101000005516,/World Localities/Asia/South Asia/India/South India
+101000005517,/World Localities/Asia/South Asia/India/West India
+101000005518,/World Localities/Asia/South Asia/India/West India/Goa
+101000005519,/World Localities/Asia/South Asia/India/North India
+101000005520,/World Localities/Asia/South Asia/India/North India/Uttar Pradesh/Agra
+101000005521,/World Localities/Asia/South Asia/India/West India/Rajasthan/Jaipur
+101000005522,/World Localities/Latin America/South America/Brazil/North Brazil
+101000005523,/World Localities/Latin America/South America/Brazil/Northeast Brazil
+101000005524,/World Localities/Latin America/South America/Brazil/South Brazil
+101000005525,/World Localities/Latin America/South America/Brazil/Southeast Brazil
+101000005526,/World Localities/Latin America/South America/Brazil/Central West Brazil
+101000005527,/World Localities/Europe/Western Europe/France/South West France
+101000005528,/World Localities/Europe/Western Europe/France/South East France
+101000005529,/World Localities/Europe/Western Europe/France/Ile-de-France
+101000005530,/World Localities/Europe/Western Europe/France/West France
+101000005531,/World Localities/Europe/Western Europe/France/East France
+101000005532,/World Localities/Europe/Western Europe/France/North France
+101000005533,/World Localities/Europe/Western Europe/France/Central France
+101000005534,/World Localities/Europe/Western Europe/Benelux
+101000005535,/World Localities/North America/USA/California/Southern California
+101000005536,/World Localities/Latin America/South America/Ecuador
+101000005537,/World Localities/Asia/Russia & CIS/Caucasus/Armenia
+101000005538,/World Localities/Asia/Russia & CIS/Caucasus/Azerbaijan
+101000005539,/World Localities/Asia/Russia & CIS/Caucasus/Georgia
+101000005540,/World Localities/Latin America/South America/Bolivia
+101000005541,/World Localities/Latin America/South America/Paraguay
+101000005542,/World Localities/Latin America/South America/Suriname
+101000005543,/World Localities/Latin America/South America/Guyana
+101000005544,/World Localities/Latin America/South America/French Guiana
+101000005545,/World Localities/Latin America/Central America/Nicaragua
+101000005546,/World Localities/Latin America/Central America/Honduras
+101000005547,/World Localities/Latin America/Central America/Guatemala
+101000005548,/World Localities/Latin America/Central America/El Salvador
+101000005549,/World Localities/Latin America/Central America/Belize
+101000005550,/World Localities/Latin America/Caribbean/Antigua & Barbuda
+101000005552,/World Localities/Asia/West Asia/Bahrain
+101000005553,/World Localities/Asia/South Asia/Bhutan
+101000005554,/World Localities/Asia/Southeast Asia/Brunei
+101000005555,/World Localities/Asia/Southeast Asia/Cambodia
+101000005556,/World Localities/Europe/Central & Eastern Europe/Baltics
+101000005557,/World Localities/Asia/Southeast Asia/East Timor
+101000005558,/World Localities/Asia/West Asia/Kuwait
+101000005559,/World Localities/Latin America/Caribbean/Barbados
+101000005560,/World Localities/Latin America/Caribbean/Dominica
+101000005561,/World Localities/Latin America/Caribbean/Grenada
+101000005562,/World Localities/Latin America/Caribbean/Haiti
+101000005563,/World Localities/Latin America/Caribbean/Saint Kitts & Nevis
+101000005564,/World Localities/Latin America/Caribbean/Saint Lucia
+101000005565,/World Localities/Europe/Central & Eastern Europe
+101000005566,/World Localities/Europe/Central & Eastern Europe/Liechtenstein
+101000005567,/World Localities/Europe/Southeastern Europe
+101000005568,/World Localities/Oceania/Pacific Islands/Polynesia/Tahiti & Bora Bora
+101000005569,"/World Localities/Latin America/Caribbean/Aruba, Bonaire & Curacao"
+101000005570,/World Localities/Latin America/Caribbean/Cayman Islands
+101000005571,/World Localities/Latin America/Caribbean/Virgin Islands
+101000005572,/World Localities/Latin America/Caribbean/Saint Vincent & Grenadines
+101000005573,/World Localities/Latin America/Caribbean/Trinidad & Tobago
+101000005574,/World Localities/Asia/Central Asia/Kyrgyzstan
+101000005575,/World Localities/Asia/Southeast Asia/Laos
+101000005576,/World Localities/Asia/South Asia/Indian Ocean Islands/Maldives
+101000005577,/World Localities/Asia/East Asia/Mongolia
+101000005578,/World Localities/Asia/West Asia/Oman
+101000005579,/World Localities/Asia/Central Asia/Tajikistan
+101000005580,/World Localities/Asia/Central Asia/Turkmenistan
+101000005581,/World Localities/Asia/West Asia/Yemen
+101000005582,/World Localities/Europe/Southeastern Europe/Albania
+101000005583,/World Localities/Europe/Western Europe/Andorra
+101000005584,/World Localities/Europe/Southeastern Europe/Republic of Macedonia
+101000005585,/World Localities/Europe/Central & Eastern Europe/Eastern Europe/Moldova
+101000005586,/World Localities/Europe/Mediterranean Europe/Monaco
+101000005587,/World Localities/Europe/Mediterranean Europe/San Marino
+101000005588,/World Localities/Middle East
+101000005589,/World Localities/Oceania/Pacific Islands
+101000005590,/World Localities/Asia/West Asia/Qatar
+101000005591,/World Localities/Africa/Eastern Africa/Somalia
+101000005592,/World Localities/Asia/West Asia/Israel/Palestinian Territories
+101000005593,/World Localities/Asia/Russia & CIS
+101000005594,/World Localities/Asia/Russia & CIS/Russian Federation/Northwestern Russia
+101000005595,/World Localities/Asia/Russia & CIS/Russian Federation/Russian Central District
+101000005596,/World Localities/North America/Canada/Atlantic Provinces/New Brunswick
+101000005597,/World Localities/North America/Canada/Atlantic Provinces/Nova Scotia
+101000005598,/World Localities/North America/Canada/Atlantic Provinces/Newfoundland & Labrador
+101000005599,/World Localities/North America/Canada/Atlantic Provinces/Prince Edward Island
+101000005600,/World Localities/North America/Canada/Canadian Prairies/Alberta
+101000005601,/World Localities/North America/Canada/Canadian Prairies/Saskatchewan
+101000005602,/World Localities/North America/Canada/Canadian Prairies/Manitoba
+101000005603,/World Localities/Asia/Russia & CIS/Russian Federation/Russian Southern District
+101000005604,/World Localities/Asia/Russia & CIS/Russian Federation/Volga District
+101000005605,/World Localities/Asia/Russia & CIS/Russian Federation/Siberian Federal District
+101000005606,/World Localities/Asia/Russia & CIS/Russian Federation/Far Eastern Russia
+101000005607,/World Localities/Asia/Russia & CIS/Russian Federation/Urals District
+101000005608,/World Localities/Europe/Western Europe/France/French Overseas (DOM-TOM)
+101000005609,/World Localities/Europe/Western Europe/France/West France/Pays de la Loire/Nantes
+101000005610,/World Localities/Europe/Western Europe/France/East France/Alsace/Strasbourg
+101000005611,/World Localities/Europe/Western Europe/France/North France/Nord-Pas-de-Calais/Lille
+101000005612,/World Localities/Europe/Western Europe/France/South West France/Languedoc-Roussillon/Montpellier
+101000005613,/World Localities/Europe/Western Europe/France/South West France/Aquitaine/Bordeaux
+101000005614,/World Localities/Europe/Western Europe/France/West France/Brittany/Rennes
+101000005616,/World Localities/Europe/Mediterranean Europe/Spain/Andalucia/Cadiz
+101000005617,/World Localities/Europe/Western Europe/France/South East France/Corsica
+101000005618,/World Localities/North America/USA/South (USA)/South Carolina/Greater Charleston (SC)
+101000005619,/World Localities/Europe/Central & Eastern Europe/Eastern Europe/Ukraine/Kiev
+101000005620,/World Localities/Asia/South Asia/Indian Ocean Islands
+101000005621,/World Localities/Africa/Eastern Africa/Madagascar
+101000005622,/World Localities/North America/USA/Florida/Florida Panhandle
+101000005623,/World Localities/North America/USA/Florida/North Florida
+101000005624,/World Localities/North America/USA/Florida/Central Florida
+101000005625,/World Localities/North America/USA/Florida/Southern Florida/South Florida Metro
+101000005626,/World Localities/Europe/Mediterranean Europe/Italy/Abruzzo
+101000005627,/World Localities/Latin America/South America/Brazil/South Brazil/Parana
+101000005628,/World Localities/Europe/Central & Eastern Europe/Eastern Europe/Ukraine/Crimea
+101000005629,/World Localities/Latin America/South America/Brazil/South Brazil/Santa Catarina
+101000005630,/World Localities/Latin America/South America/Brazil/South Brazil/Rio Grande do Sul
+101000005631,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Bahia
+101000005632,/World Localities/Latin America/South America/Brazil/Southeast Brazil/Minas Gerais
+101000005633,/World Localities/Africa/Northern Africa/Libya
+101000005634,/World Localities/Africa/Eastern Africa/Mozambique
+101000005635,/World Localities/Africa/Middle Africa/Cameroon
+101000005636,/World Localities/Africa/Middle Africa/Angola
+101000005637,/World Localities/Africa/Western Africa/Cote d'Ivoire
+101000005638,/World Localities/North America/USA/Florida/Southern Florida
+101000005639,/World Localities/Asia/South Asia/India/South India/Tamil Nadu
+101000005640,/World Localities/Asia/South Asia/India/South India/Karnataka
+101000005641,/World Localities/North America/USA/Florida/Southern Florida/South Florida Metro/Broward-Fort Lauderdale
+101000005642,/World Localities/North America/USA/Florida/Central Florida/Deltona-Daytona Beach
+101000005643,/World Localities/Asia/East Asia/China/Northeast China/Jilin
+101000005644,/World Localities/Asia/South Asia/India/North India/Uttar Pradesh
+101000005645,/World Localities/Asia/South Asia/India/West India/Maharashtra
+101000005646,/World Localities/Asia/South Asia/India/West India/Rajasthan
+101000005647,/World Localities/Asia/South Asia/India/West India/Gujarat
+101000005648,/World Localities/Asia/South Asia/India/South India/Andhra Pradesh
+101000005649,/World Localities/Asia/South Asia/India/East India/West Bengal
+101000005650,/World Localities/Asia/South Asia/India/East India/Bihar
+101000005651,/World Localities/Asia/South Asia/India/South India/Kerala
+101000005652,/World Localities/Asia/South Asia/India/North India/Madhya Pradesh
+101000005653,/World Localities/Africa/Western Africa/Senegal
+101000005654,/World Localities/Asia/South Asia/India/East India/Orissa
+101000005655,/World Localities/Asia/East Asia/China/South Central China/Anhui
+101000005656,/World Localities/Asia/East Asia/China/Southwest China/Guangxi
+101000005657,/World Localities/Asia/East Asia/China/Southwest China/Yunnan
+101000005658,/World Localities/Asia/East Asia/China/South Central China/Jiangxi
+101000005659,/World Localities/Asia/East Asia/China/Southwest China/Guizhou
+101000005660,/World Localities/Asia/East Asia/China/North Central China/Shanxi
+101000005661,/World Localities/Asia/East Asia/China/Northwest China/Gansu
+101000005662,/World Localities/Asia/East Asia/China/Northwest China/Ningxia
+101000005663,/World Localities/Asia/East Asia/China/Northwest China/Qinghai
+101000005664,/World Localities/Asia/East Asia/China/North Central China/Inner Mongolia
+101000005665,/World Localities/Asia/East Asia/China/Southeast China/Hainan
+101000005666,/World Localities/Asia/East Asia/China/Eastern China/Jiangsu/Nanjing
+101000005667,/World Localities/Asia/East Asia/China/Northeast China/Heilongjiang/Harbin
+101000005668,/World Localities/Asia/Southeast Asia/Philippines/Cebu
+101000005669,/World Localities/North America/USA/California/California Central Coast
+101000005670,/World Localities/North America/USA/New England/Connecticut/New Haven
+101000005671,/World Localities/Africa/Eastern Africa/Zambia
+101000005672,/World Localities/Asia/East Asia/South Korea/Gangwon
+101000005673,/World Localities/Asia/East Asia/South Korea/South Gyeongsang
+101000005674,/World Localities/Asia/East Asia/South Korea/North Gyeongsang
+101000005675,/World Localities/Asia/East Asia/South Korea/South Jeolla
+101000005676,/World Localities/Asia/East Asia/South Korea/North Jeolla
+101000005677,/World Localities/Asia/East Asia/South Korea/South Chungcheong
+101000005678,/World Localities/Asia/East Asia/South Korea/North Chungcheong
+101000005679,/World Localities/Europe/Nordic Countries/Greenland
+101000005680,/World Localities/Europe/Western Europe/France/Central France/Auvergne
+101000005681,/World Localities/Europe/Western Europe/France/Central France/Centre
+101000005682,/World Localities/Europe/Western Europe/France/Central France/Limousin
+101000005683,/World Localities/Europe/Western Europe/France/East France/Alsace
+101000005684,/World Localities/Europe/Western Europe/France/East France/Burgundy
+101000005685,/World Localities/Europe/Western Europe/France/East France/Champagne-Ardenne
+101000005686,/World Localities/Europe/Western Europe/France/East France/Franche-Comte
+101000005687,/World Localities/Europe/Western Europe/France/East France/Lorraine
+101000005688,/World Localities/Europe/Western Europe/France/North France/Lower Normandy
+101000005689,/World Localities/Europe/Western Europe/France/North France/Upper Normandy
+101000005690,/World Localities/Europe/Western Europe/France/North France/Nord-Pas-de-Calais
+101000005691,/World Localities/Europe/Western Europe/France/North France/Picardy
+101000005692,/World Localities/Europe/Western Europe/France/South East France/Provence-Alpes-Cote d'Azur
+101000005693,/World Localities/Europe/Western Europe/France/South East France/Rhone-Alpes
+101000005694,/World Localities/Europe/Western Europe/France/South West France/Aquitaine
+101000005695,/World Localities/Europe/Western Europe/France/South West France/Languedoc-Roussillon
+101000005696,/World Localities/Europe/Western Europe/France/South West France/Midi-Pyrenees
+101000005697,/World Localities/Europe/Western Europe/France/West France/Brittany
+101000005698,/World Localities/Europe/Western Europe/France/West France/Pays de la Loire
+101000005699,/World Localities/Europe/Western Europe/France/West France/Poitou-Charentes
+101000005700,/World Localities/Latin America/Caribbean/Guadeloupe
+101000005701,/World Localities/Latin America/Caribbean/Martinique
+101000005702,/World Localities/Asia/South Asia/Indian Ocean Islands/Reunion
+101000005703,/World Localities/Asia/Southeast Asia/Indonesia/Java (Indonesia)
+101000005704,/World Localities/Asia/Southeast Asia/Indonesia/Kalimantan
+101000005705,/World Localities/Asia/Southeast Asia/Indonesia/Maluku Islands
+101000005706,/World Localities/Asia/Southeast Asia/Indonesia/Nusa Tenggara
+101000005707,/World Localities/Asia/Southeast Asia/Indonesia/Sulawesi
+101000005708,/World Localities/Asia/Southeast Asia/Indonesia/Sumatra
+101000005709,/World Localities/Asia/Southeast Asia/Indonesia/Western New Guinea
+101000005710,/World Localities/Africa/Western Africa/Niger
+101000005711,/World Localities/Africa/Western Africa/Mali
+101000005712,/World Localities/Africa/Western Africa/Burkina Faso
+101000005713,/World Localities/Africa/Southern Africa/Botswana
+101000005714,/World Localities/Africa/Eastern Africa/Malawi
+101000005715,/World Localities/Africa/Middle Africa/Chad
+101000005716,/World Localities/Europe/Mediterranean Europe/Italy/Marche
+101000005717,/World Localities/Europe/Mediterranean Europe/Italy/Friuli-Venezia Giulia
+101000005718,/World Localities/Europe/Mediterranean Europe/Italy/Trentino-Alto Adige
+101000005719,/World Localities/Europe/Mediterranean Europe/Italy/Umbria
+101000005720,/World Localities/Europe/Mediterranean Europe/Italy/Basilicata
+101000005721,/World Localities/Europe/Mediterranean Europe/Italy/Molise
+101000005722,/World Localities/Europe/Mediterranean Europe/Italy/Aosta Valley
+101000005723,/World Localities/Asia/East Asia/Japan/Chubu/Aichi
+101000005724,/World Localities/Asia/East Asia/Japan/Chubu/Toyama
+101000005725,/World Localities/Asia/East Asia/Japan/Chubu/Fukui
+101000005726,/World Localities/Asia/East Asia/Japan/Chubu/Nagano
+101000005727,/World Localities/Asia/East Asia/Japan/Chubu/Niigata
+101000005728,/World Localities/Asia/East Asia/Japan/Chubu/Yamanashi
+101000005729,/World Localities/Asia/East Asia/Japan/Chubu/Ishikawa
+101000005730,/World Localities/Asia/East Asia/Japan/Chubu/Gifu
+101000005731,/World Localities/Asia/East Asia/Japan/Chubu/Shizuoka
+101000005732,/World Localities/Asia/East Asia/Japan/Chugoku/Tottori
+101000005733,/World Localities/Asia/East Asia/Japan/Chugoku/Yamaguchi
+101000005734,/World Localities/Asia/East Asia/Japan/Chugoku/Shimane
+101000005735,/World Localities/Asia/East Asia/Japan/Chugoku/Hiroshima
+101000005736,/World Localities/Asia/East Asia/Japan/Chugoku/Okayama
+101000005737,/World Localities/Asia/East Asia/Japan/Kansai/Hyogo
+101000005738,/World Localities/Asia/East Asia/Japan/Kansai/Shiga
+101000005739,/World Localities/Asia/East Asia/Japan/Kansai/Nara
+101000005740,/World Localities/Asia/East Asia/Japan/Kansai/Wakayama
+101000005741,/World Localities/Asia/East Asia/Japan/Kansai/Mie
+101000005742,/World Localities/Asia/East Asia/Japan/Kanto/Chiba
+101000005743,/World Localities/Asia/East Asia/Japan/Kanto/Saitama
+101000005744,/World Localities/Asia/East Asia/Japan/Kanto/Kanagawa
+101000005745,/World Localities/Asia/East Asia/Japan/Kanto/Gunma
+101000005746,/World Localities/Asia/East Asia/Japan/Kanto/Ibaraki
+101000005747,/World Localities/Asia/East Asia/Japan/Kanto/Tochigi
+101000005748,/World Localities/Asia/East Asia/Japan/Kyushu/Saga
+101000005749,/World Localities/Asia/East Asia/Japan/Kyushu/Nagasaki
+101000005750,/World Localities/Asia/East Asia/Japan/Kyushu/Oita
+101000005751,/World Localities/Asia/East Asia/Japan/Kyushu/Miyazaki
+101000005752,/World Localities/Asia/East Asia/Japan/Kyushu/Kagoshima
+101000005753,/World Localities/Asia/East Asia/Japan/Kyushu/Kumamoto
+101000005754,/World Localities/Asia/East Asia/Japan/Shikoku/Kagawa
+101000005755,/World Localities/Asia/East Asia/Japan/Shikoku/Ehime
+101000005756,/World Localities/Asia/East Asia/Japan/Shikoku/Tokushima
+101000005757,/World Localities/Asia/East Asia/Japan/Shikoku/Kochi
+101000005758,/World Localities/Asia/East Asia/Japan/Tohoku/Aomori
+101000005759,/World Localities/Asia/East Asia/Japan/Tohoku/Akita
+101000005760,/World Localities/Asia/East Asia/Japan/Tohoku/Iwate
+101000005761,/World Localities/Asia/East Asia/Japan/Tohoku/Yamagata
+101000005762,/World Localities/Asia/East Asia/Japan/Tohoku/Miyagi
+101000005763,/World Localities/Asia/East Asia/Japan/Tohoku/Fukushima
+101000005764,/World Localities/Asia/East Asia/Japan/Kanto/Kanagawa/Kawasaki
+101000005765,/World Localities/Asia/East Asia/Japan/Tohoku/Miyagi/Sendai
+101000005766,/World Localities/Asia/Russia & CIS/Russian Federation/North Caucasian District
+101000005767,/World Localities/Europe/Southeastern Europe/Kosovo
+101000005768,/World Localities/Europe/Southeastern Europe/Montenegro
+101000005769,/World Localities/Europe/Mediterranean Europe/Vatican City
+101000005770,/World Localities/Europe/Mediterranean Europe/Spain/Cantabria
+101000005771,/World Localities/Europe/Mediterranean Europe/Italy/Campania/Salerno & Amalfi Coast
+101000005772,/World Localities/Europe/Mediterranean Europe/Portugal/Porto
+101000005773,/World Localities/Europe/Mediterranean Europe/Portugal/Azores & Madeira
+101000005774,/World Localities/Latin America/South America/Brazil/Central West Brazil/Goias
+101000005775,/World Localities/Asia/South Asia/India/East India/Chhattisgarh
+101000005776,/World Localities/Asia/South Asia/India/North India/Punjab (India)
+101000005777,/World Localities/Latin America/South America/Brazil/Southeast Brazil/Espirito Santo
+101000005778,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Alagoas
+101000005779,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Ceara
+101000005780,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Maranhao
+101000005781,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Paraiba
+101000005782,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Pernambuco
+101000005783,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Piaui
+101000005784,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Rio Grande do Norte
+101000005785,/World Localities/Latin America/South America/Brazil/Northeast Brazil/Sergipe
+101000005786,/World Localities/Latin America/South America/Brazil/Central West Brazil/Mato Grosso
+101000005787,/World Localities/Latin America/South America/Brazil/Central West Brazil/Mato Grosso do Sul
+101000005788,/World Localities/Latin America/South America/Brazil/North Brazil/Amazonas
+101000005789,/World Localities/Latin America/South America/Brazil/North Brazil/Para
+101000005790,/World Localities/Latin America/South America/Brazil/North Brazil/Rondonia
+101000005791,/World Localities/Latin America/South America/Brazil/North Brazil/Tocantins
+101000005792,/World Localities/Latin America/Central America/Mexico/Baja California
+101000005793,/World Localities/Latin America/Central America/Mexico/Northern Mexico
+101000005794,/World Localities/Latin America/Central America/Mexico/Northern Mexico/Nuevo Leon
+101000005795,/World Localities/Latin America/Central America/Mexico/Northern Mexico/Chihuahua
+101000005796,/World Localities/Latin America/Central America/Mexico/Northern Mexico/Tamaulipas
+101000005797,/World Localities/Latin America/Central America/Mexico/Central Mexico
+101000005798,/World Localities/Latin America/Central America/Mexico/Central Mexico/Mexico State
+101000005799,/World Localities/Latin America/Central America/Mexico/Central Mexico/Veracruz
+101000005800,/World Localities/Latin America/Central America/Mexico/Central Mexico/Puebla
+101000005801,/World Localities/Latin America/Central America/Mexico/Central Mexico/Guanajuato
+101000005802,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)
+101000005803,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Guerrero
+101000005804,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Oaxaca
+101000005805,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Jalisco
+101000005806,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Chiapas
+101000005807,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Michoacan
+101000005808,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Sinaloa
+101000005809,/World Localities/Latin America/Central America/Mexico/Yucatan Peninsula
+101000005810,/World Localities/Asia/Southeast Asia/Thailand/Chiang Mai
+101000005811,/World Localities/Asia/Southeast Asia/Thailand/Southern Thailand
+101000005812,/World Localities/Asia/Southeast Asia/Thailand/Pattaya
+101000005813,/World Localities/Latin America/Central America/Mexico/Baja California/Los Cabos
+101000005814,/World Localities/Latin America/Central America/Mexico/Central Mexico/Cuernavaca (Morelos)
+101000005815,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Guerrero/Acapulco
+101000005816,/World Localities/Latin America/Central America/Mexico/Pacific Coast (Mexico)/Jalisco/Puerto Vallarta
+101000005817,/World Localities/Latin America/Central America/Mexico/Yucatan Peninsula/Quintana Roo
+101000005818,/World Localities/Latin America/Central America/Mexico/Yucatan Peninsula/Yucatan
+101000005819,/World Localities/Latin America/Central America/Mexico/Yucatan Peninsula/Quintana Roo/Cancun & Riviera Maya
+101000005820,/World Localities/Latin America/Central America/Mexico/Yucatan Peninsula/Yucatan/Merida
+101000005821,/World Localities/North America/USA/South (USA)/South Carolina/Myrtle Beach & Grand Strand
+101000005822,/World Localities/North America/USA/Florida/Southern Florida/Florida Keys
+101000005823,/World Localities/North America/USA/Florida/Southern Florida/Fort Myers-Cape Coral
+101000005824,/World Localities/North America/USA/Florida/Florida Panhandle/Tallahassee
+101000005825,/World Localities/Europe/Southeastern Europe/Greece/Crete
+101000005826,/World Localities/North America/USA/Hawaii/Oahu
+101000005827,/World Localities/North America/USA/Hawaii/Maui
+101000005828,/World Localities/North America/USA/Hawaii/Big Island (Hawaii)
+101000005829,/World Localities/North America/USA/Hawaii/Kauai
+101000005831,/World Localities/Europe/Southeastern Europe/Greece/Aegean Islands
+101000005832,/World Localities/Latin America/South America/Ecuador/Galapagos Islands
+101000005833,/World Localities/Latin America/South America/Ecuador/Quito
+101000005834,/World Localities/Asia/West Asia/Turkey/Aegean Turkey
+101000005835,/World Localities/Asia/West Asia/Turkey/Black Sea Turkey
+101000005836,/World Localities/Asia/West Asia/Turkey/Central Anatolia
+101000005837,/World Localities/Asia/West Asia/Turkey/Eastern Anatolia
+101000005838,/World Localities/Asia/West Asia/Turkey/Marmara Region
+101000005839,/World Localities/Asia/West Asia/Turkey/Mediterranean Turkey
+101000005840,/World Localities/Asia/West Asia/Turkey/Southeastern Anatolia
+101000005841,/World Localities/Asia/West Asia/Turkey/Marmara Region/Bursa
+101000005842,/World Localities/Asia/West Asia/Turkey/Aegean Turkey/Izmir
+101000005843,/World Localities/Asia/West Asia/Turkey/Mediterranean Turkey/Antalya
+101000005844,/World Localities/Asia/West Asia/Turkey/Central Anatolia/Cappadocia
+101000005845,/World Localities/Asia/West Asia/Turkey/Aegean Turkey/Mu?la
+101000005846,/World Localities/Asia/West Asia/Turkey/Aegean Turkey/Pamukkale
+101000005847,/World Localities/Asia/West Asia/Turkey/Central Anatolia/Konya
+101000005848,/World Localities/Asia/West Asia/Turkey/Mediterranean Turkey/Adana
+101000005849,/World Localities/Asia/West Asia/Turkey/Aegean Turkey/Mu?la/Bodrum
+101000005850,/World Localities/Asia/West Asia/Turkey/Mediterranean Turkey/Mersin
