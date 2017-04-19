@@ -9,20 +9,69 @@ from nltk.corpus import wordnet as wn
 import csv
 import numpy as np
 from itertools import product as prd
+from nltk.corpus import genesis,wordnet_ic
+genesis_ic = wn.ic(genesis, False, 0.0)
+brown_ic = wordnet_ic.ic('ic-brown.dat')
+semcor_ic = wordnet_ic.ic('ic-semcor.dat')
 
 
 def compute_similarity(a,b):
     return simple_similarity(a,b)
 
-def compute_similarities(s1,s2):
-    return wn.path_similarity(s1,s2)
+def compute_similarities(s1,s2,sim):
+    if sim == "path":
+        return wn.path_similarity(s1,s2)
+    elif sim == "lch":
+        return wn.lch_similarity(s1,s2)
+    elif sim == "wup":
+        return wn.wup_similarity(s1,s2)
+    elif sim == "res":
+        return wn.res_similarity(s1,s2,genesis_ic)
+    elif sim == "jcn":
+        return wn.jcn_similarity(s1,s2,genesis_ic)
+    elif sim == "lin":
+        return wn.lin_similarity(s1,s2,genesis_ic)
+
+def flatten_list(l):
+    return [item for sublist in l for item in sublist]
+
+
+def similarity_matrix(sim,rep):
+
+    score_matrix = []
+
+    for product in product_category_list:
+        product_row = []
+        for site in site_category_list:
+            #print(site)
+            #temp_sim = []
+            best = 0
+            allsyns1 = set(ss for word in product for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
+            allsyns2 = set(ss for word in site for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
+            comparison_result = [(compute_similarities(s1, s2,sim) or 0, s1, s2) for s1, s2 in prd(allsyns1, allsyns2) if s1.pos() == s2.pos() and s1.pos() != "s"]
+            if comparison_result:
+                if rep == "max":
+                    best = max([x[0] for x in comparison_result])
+                elif rep == "mean":
+                    best = np.mean([x[0] for x in comparison_result])
+                elif rep == "median":
+                    best = np.median([x[0] for x in comparison_result])
+                elif rep == "min":
+                    best = min([x[0] for x in comparison_result])
+            product_row.append(best)
+
+        score_matrix.append(product_row)
+
+    file_name = sim + "_" + rep + ".tsv"
+    result = pd.DataFrame(score_matrix, index=tf.product_ctgr_name, columns=df.name)
+    result.to_csv(file_name, sep="\t", encoding="utf-8")
 
 
 if __name__ == '__main__':
 
     site_category_list = []
     df = pd.read_csv('google_site_category_master.csv')
-    df = df.head(5)
+    df = df.head(30)
     for item in df['name'].values.tolist(): 
         item = item[1:]
         item = item.replace(' & ','/').replace(' ','_')
@@ -49,7 +98,13 @@ if __name__ == '__main__':
     pprint(product_category_list)
     print(len(product_category_list))
 
-    score_matrix = []
+    similarity_measures = ["path","lch","wup","res","jcn","lin"]
+    reppresentation_measures = ["max","mean","median","min"]
+
+    for sim,rep in prd(similarity_measures,reppresentation_measures):
+        similarity_matrix(sim,rep)
+
+    # score_matrix = []
 
     # for product in product_category_list:
     #     product_row = []
@@ -133,30 +188,41 @@ if __name__ == '__main__':
             # #print(max(temp_sim))
         # score_matrix.append(product_row)
     
-    for product in product_category_list:
-        product_row = []
-        #print(product)
-        #print("Above is the product #############################################")
-        for site in site_category_list:
-            #print(site)
-            #temp_sim = []
-            best = 0
-            allsyns1 = set(ss for word in product for ss in wn.synsets(word))
-            allsyns2 = set(ss for word in site for ss in wn.synsets(word))
+    # for product in product_category_list:
+    #     product_row = []
+    #     #print(product)
+    #     #print("Above is the product #############################################")
+    #     for site in site_category_list:
+    #         #print(site)
+    #         #temp_sim = []
+    #         best = 0
+    #         allsyns1 = set(ss for word in product for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
+    #         allsyns2 = set(ss for word in site for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
 
-            comparison_result = [(compute_similarities(s1, s2) or 0, s1, s2) for s1, s2 in prd(allsyns1, allsyns2) if s1.pos() == s2.pos()]
-            if comparison_result:
-                best = np.mean([x[0] for x in comparison_result])
+    #         # print('synsets')
+    #         # print
+    #         # print(allsyns1)
+    #         # print
+    #         # print(allsyns2)
+    #         # print('product')
+    #         # print(prd(allsyns1,allsyns2))
 
-            product_row.append(best)
+    #         comparison_result = [(compute_similarities(s1, s2) or 0, s1, s2) for s1, s2 in prd(allsyns1, allsyns2) if s1.pos() == s2.pos() and s1.pos() != "s"]
+    #         if comparison_result:
+    #             #best = max([x[0] for x in comparison_result])
+    #             #best = np.mean([x[0] for x in comparison_result])
+    #             #best = np.median([x[0] for x in comparison_result])
+    #             best = min([x[0] for x in comparison_result])
 
-        score_matrix.append(product_row)
+    #         product_row.append(best)
+
+    #     score_matrix.append(product_row)
 
 
     
 
-    result = pd.DataFrame(score_matrix, index=tf.product_ctgr_name, columns=df.name)
-    result.to_csv("max.tsv", sep="\t", encoding="utf-8")
+    # result = pd.DataFrame(score_matrix, index=tf.product_ctgr_name, columns=df.name)
+    # result.to_csv("lin_min.tsv", sep="\t", encoding="utf-8")
     # with open("test.tsv", "w") as sink:
     #     for row in score_matrix:
     #         sink.write("{}\n".format("\t".join(list(map(str, row)))))

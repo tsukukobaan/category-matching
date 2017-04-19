@@ -19,7 +19,7 @@ product_ctgr_id,product_ctgr_name
 60,Arts and Design
 49,Hardware
 51,Entertainment
-70,sightseeing spot/name trace
+70,sightseeing/spot/name/trace
 68,Hotels
 66,food
 104,Consumer finance
@@ -72,7 +72,7 @@ product_ctgr_id,product_ctgr_name
 93,Care Center
 86,Make-Cosmetics
 101,Credit card
-13,Language studies/study abroad
+13,Language/studies/study/abroad
 8,Internet
 129,points/Sweepstakes
 122,Manga/animation/youth
@@ -106,7 +106,7 @@ product_ctgr_id,product_ctgr_name
 87,Visual acuity/vision correction
 113,Jewelry
 77,vocational school
-124,Corporate service(BtoB)
+124,Corporate/service/BtoB
 63,Fortunetellation
 111,bag
 59,Manga/animation
