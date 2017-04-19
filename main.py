@@ -35,20 +35,58 @@ def compute_similarities(s1,s2,sim):
 def flatten_list(l):
     return [item for sublist in l for item in sublist]
 
+def simple_similarity_matrix(product_category_list,site_category_list):
+    score_matrix = []
+
+    for product in product_category_list:
+        product_row = []
+        #print(product)
+        #print("Above is the product #############################################")
+        for site in site_category_list:
+            #print(site)
+            temp_sim = []
+            for prod in product:
+                for sit in site:
+                    # print(prod)
+                    # print(sit)
+                    if wn.synsets(prod) and wn.synsets(sit):
+                        temp_sim.append(compute_similarity(prod,sit))
+                    elif wn.synsets(sit) and '_' in prod:
+                        prod_sep = prod.split('_')
+                        for pro in prod_sep:
+                            if wn.synsets(pro):
+                                temp_sim.append(compute_similarity(pro,sit))
+                            else:
+                                temp_sim.append(0)
+                    else:
+                        temp_sim.append(0)
+            product_row.append(max(temp_sim))
+            #print('printing max temporal similar score')
+            #print(max(temp_sim))
+        score_matrix.append(product_row)
+    result = pd.DataFrame(score_matrix, index=tf.product_ctgr_name, columns=df.name)
+    result.to_csv("simple_lch.tsv", sep="\t", encoding="utf-8")
+
+
+
 
 def similarity_matrix(sim,rep):
 
     score_matrix = []
 
     for product in product_category_list:
+        #この時点でproductはリスト
         product_row = []
         for site in site_category_list:
-            #print(site)
-            #temp_sim = []
+            # product site ともにリスト、中身は一つ〜
             best = 0
             allsyns1 = set(ss for word in product for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
             allsyns2 = set(ss for word in site for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
+            #allsynsには入っているのは各単語のsynsetのset
             comparison_result = [(compute_similarities(s1, s2,sim) or 0, s1, s2) for s1, s2 in prd(allsyns1, allsyns2) if s1.pos() == s2.pos() and s1.pos() != "s"]
+            if "games" in product and "Games" in site:
+                print("{}, {}".format(product, site))
+                print("{}".format(comparison_result[:10]))
             if comparison_result:
                 if rep == "max":
                     best = max([x[0] for x in comparison_result])
@@ -70,13 +108,15 @@ def similarity_matrix(sim,rep):
 if __name__ == '__main__':
 
     site_category_list = []
+    #loading site categories
     df = pd.read_csv('google_site_category_master.csv')
-    df = df.head(30)
+    df = df.head(10)
+    #extracting name column
     for item in df['name'].values.tolist(): 
         item = item[1:]
         item = item.replace(' & ','/').replace(' ','_')
-        print(item)
         words = item.split('/')
+        print(words)
         
         site_category_list.append(words)
 
@@ -90,7 +130,7 @@ if __name__ == '__main__':
             words = item.split('/')
             product_category_list.append(words)
         else:
-            product_category_list.append(item)
+            product_category_list.append([item])
 
 
     pprint(site_category_list)
@@ -103,6 +143,10 @@ if __name__ == '__main__':
 
     for sim,rep in prd(similarity_measures,reppresentation_measures):
         similarity_matrix(sim,rep)
+
+    # simple_similarity_matrix(product_category_list,site_category_list)
+
+
 
     # score_matrix = []
 
@@ -167,25 +211,25 @@ if __name__ == '__main__':
     #                             product_row.append(best)
 
 
-            # #original line
-            # for prod in product:
-            #     for sit in site:
-            #         # print(prod)
-            #         # print(sit)
-            #         if wn.synsets(prod) and wn.synsets(sit):
-            #             temp_sim.append(compute_similarity(prod,sit))
-            #         elif wn.synsets(sit) and '_' in prod:
-            #             prod_sep = prod.split('_')
-            #             for pro in prod_sep:
-            #                 if wn.synsets(pro):
-            #                     temp_sim.append(compute_similarity(pro,sit))
-            #                 else:
-            #                     temp_sim.append(0)
-            #         else:
-            #             temp_sim.append(0)
-            # product_row.append(max(temp_sim))
-            # #print('printing max temporal similar score')
-            # #print(max(temp_sim))
+        #     #original line
+        #     for prod in product:
+        #         for sit in site:
+        #             # print(prod)
+        #             # print(sit)
+        #             if wn.synsets(prod) and wn.synsets(sit):
+        #                 temp_sim.append(compute_similarity(prod,sit))
+        #             elif wn.synsets(sit) and '_' in prod:
+        #                 prod_sep = prod.split('_')
+        #                 for pro in prod_sep:
+        #                     if wn.synsets(pro):
+        #                         temp_sim.append(compute_similarity(pro,sit))
+        #                     else:
+        #                         temp_sim.append(0)
+        #             else:
+        #                 temp_sim.append(0)
+        #     product_row.append(max(temp_sim))
+        #     #print('printing max temporal similar score')
+        #     #print(max(temp_sim))
         # score_matrix.append(product_row)
     
     # for product in product_category_list:
