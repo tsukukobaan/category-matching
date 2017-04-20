@@ -84,9 +84,9 @@ def similarity_matrix(sim,rep):
             allsyns2 = set(ss for word in site for ss in (wn.synsets(word) if wn.synsets(word) else flatten_list([wn.synsets(w) for w in word.split("_")])))
             #allsynsには入っているのは各単語のsynsetのset
             comparison_result = [(compute_similarities(s1, s2,sim) or 0, s1, s2) for s1, s2 in prd(allsyns1, allsyns2) if s1.pos() == s2.pos() and s1.pos() != "s"]
-            if "games" in product and "Games" in site:
-                print("{}, {}".format(product, site))
-                print("{}".format(comparison_result[:10]))
+            # if "games" in product and "Games" in site:
+            #     print("{}, {}".format(product, site))
+            #     print("{}".format(comparison_result[:10]))
             if comparison_result:
                 if rep == "max":
                     best = max([x[0] for x in comparison_result])
@@ -100,7 +100,7 @@ def similarity_matrix(sim,rep):
 
         score_matrix.append(product_row)
 
-    file_name = sim + "_" + rep + ".tsv"
+    file_name = "big" + sim + "_" + rep + ".tsv"
     result = pd.DataFrame(score_matrix, index=tf.product_ctgr_name, columns=df.name)
     result.to_csv(file_name, sep="\t", encoding="utf-8")
 
@@ -110,7 +110,7 @@ if __name__ == '__main__':
     site_category_list = []
     #loading site categories
     df = pd.read_csv('google_site_category_master.csv')
-    df = df.head(10)
+    #df = df.head(10)
     #extracting name column
     for item in df['name'].values.tolist(): 
         item = item[1:]
@@ -138,8 +138,10 @@ if __name__ == '__main__':
     pprint(product_category_list)
     print(len(product_category_list))
 
-    similarity_measures = ["path","lch","wup","res","jcn","lin"]
-    reppresentation_measures = ["max","mean","median","min"]
+    similarity_measures = ["lch"]
+    reppresentation_measures = ["max"]
+    # similarity_measures = ["path","lch","wup","res","jcn","lin"]
+    # reppresentation_measures = ["max","mean","median","min"]
 
     for sim,rep in prd(similarity_measures,reppresentation_measures):
         similarity_matrix(sim,rep)
